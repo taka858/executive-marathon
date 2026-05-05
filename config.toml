@@ -78,9 +78,6 @@ enableInlineShortcodes = true
   # Light mode / Dark mode
   darkMode = true
 
-  # CDN (Cloudflare)
-  CDN = "https://cdn.jsdelivr.net/gh/dillonzq/LoveIt@gh-pages"
-
   # SEO
   [params.seo]
     image = "/images/og-image.png"
