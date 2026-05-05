@@ -1,6 +1,11 @@
 baseURL = "https://executive-marathon.com/"
 languageCode = "ja-jp"
 title = "Executive Marathon - ビジネスパーソンのための健康とキャリア戦略"
+
+[params]
+  subtitle = "Noble Endurance 歩みを止めない。それが、リーダーの資質。"
+  description = "年収3000万円以上のエグゼクティブ向け。持久スポーツを通して、仕事で忙しい経営者の健康管理とキャリア戦略について解説します。"
+
 theme = "LoveIt"
 enableEmoji = true
 enableInlineShortcodes = true
