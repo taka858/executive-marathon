@@ -1,0 +1,23 @@
+{{- $id := .Get "id" -}}
+{{- $text := .Get "text" -}}
+{{- $title := .Get "title" -}}
+{{- $affiliateData := index $.Site.Data.affiliate $id -}}
+
+{{- if $affiliateData -}}
+<div class="affiliate-link">
+  <a href="{{ $affiliateData.url }}" target="_blank" rel="noopener noreferrer" class="affiliate-button">
+    {{- if $affiliateData.icon -}}
+      <span class="affiliate-icon">{{ $affiliateData.icon }}</span>
+    {{- end -}}
+    <span class="affiliate-text">{{ $text | default $affiliateData.text }}</span>
+    <span class="affiliate-arrow">→</span>
+  </a>
+  {{- if $affiliateData.description -}}
+    <p class="affiliate-description">{{ $affiliateData.description }}</p>
+  {{- end -}}
+</div>
+{{- else -}}
+  <div class="affiliate-error">
+    ⚠️ アフィリエイトID「{{ $id }}」が見つかりません。data/affiliate.yaml を確認してください。
+  </div>
+{{- end -}}

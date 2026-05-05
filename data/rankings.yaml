@@ -1,0 +1,115 @@
+# ランキングデータ管理ファイル
+# 使用方法: {{< ranking category="running-shoes" >}}
+
+running-shoes:
+  title: "おすすめランニングシューズ ランキングTOP5"
+  subtitle: "エグゼクティブランナーに人気のシューズを厳選"
+  items:
+    - name: "ASICS GEL-KAYANO 30"
+      description: "高いクッション性と足へのサポート性能が特徴。長距離走に最適な一足。"
+      price: "¥18,700"
+      rating: 4.8
+      url: "https://www.amazon.co.jp/s?k=ASICS+GEL-KAYANO+30"
+
+    - name: "Nike Pegasus 40"
+      description: "定番中の定番。バランスの取れた性能で初心者からプロまで愛用。"
+      price: "¥13,200"
+      rating: 4.7
+      url: "https://www.amazon.co.jp/s?k=Nike+Pegasus+40"
+
+    - name: "New Balance 880"
+      description: "安定性と耐久性に優れている。毎日のトレーニング用に最適。"
+      price: "¥16,500"
+      rating: 4.6
+      url: "https://www.amazon.co.jp/s?k=New+Balance+880"
+
+    - name: "HOKA ONE ONE Clifton"
+      description: "軽量かつクッション性抜群。高速ペース走に向いている。"
+      price: "¥19,800"
+      rating: 4.7
+      url: "https://www.amazon.co.jp/s?k=HOKA+ONE+ONE+Clifton"
+
+    - name: "Brooks Ghost 15"
+      description: "ラン文化が浸透した米国では最高評価。快適さを重視する方向け。"
+      price: "¥17,600"
+      rating: 4.6
+      url: "https://www.amazon.co.jp/s?k=Brooks+Ghost+15"
+
+business-books:
+  title: "ビジネスパーソン必読書 ランキングTOP5"
+  subtitle: "年収3000万円以上のエグゼクティブが読んでいる本"
+  items:
+    - name: "Getting Things Done: ストレスフリーの仕事術"
+      description: "デビッド・アレン著。GTD仕事術の原点。時間管理の革命。"
+      price: "¥2,750"
+      rating: 4.9
+      url: "https://www.amazon.co.jp/s?k=Getting+Things+Done"
+
+    - name: "習慣のちから"
+      description: "チャールズ・デュヒッグ著。習慣形成の科学的メカニズムを解説。"
+      price: "¥2,090"
+      rating: 4.8
+      url: "https://www.amazon.co.jp/s?k=習慣のちから"
+
+    - name: "戦略的思考とは何か"
+      description: "ディープな経営戦略思考を身につけるための必読書。"
+      price: "¥3,300"
+      rating: 4.7
+      url: "https://www.amazon.co.jp/s?k=戦略的思考"
+
+    - name: "7つの習慣"
+      description: "スティーブン・コヴィー著。自己啓発の古典的名著。"
+      price: "¥2,750"
+      rating: 4.8
+      url: "https://www.amazon.co.jp/s?k=7つの習慣"
+
+    - name: "イノベーションのジレンマ"
+      description: "クレイトン・クリステンセン著。破壊的イノベーション理論。"
+      price: "¥3,080"
+      rating: 4.6
+      url: "https://www.amazon.co.jp/s?k=イノベーションのジレンマ"
+
+triathlon-gear:
+  title: "トライアスロン初心者向けギア ランキングTOP5"
+  subtitle: "必要最小限でスタートできる機材"
+  items:
+    - name: "ウェットスーツ（初心者向け）"
+      description: "水温15-25℃対応。水の抵抗を減らし浮力をサポート。"
+      price: "¥15,000～25,000"
+      rating: 4.5
+      url: "https://www.amazon.co.jp/s?k=ウェットスーツ+トライアスロン"
+
+    - name: "トライアスロン用バイク"
+      description: "ロードバイク推奨。カーボンフレームで軽量・高速。"
+      price: "¥150,000～300,000"
+      rating: 4.7
+      url: "https://www.amazon.co.jp/s?k=トライアスロン+バイク"
+
+    - name: "トランジションバッグ"
+      description: "ウェットスーツから自転車への移行を素早くサポート。"
+      price: "¥5,000～10,000"
+      rating: 4.4
+      url: "https://www.amazon.co.jp/s?k=トランジションバッグ"
+
+    - name: "スイムゴーグル（高機能）"
+      description: "視野が広く、水の侵入を防止。快適なスイムをサポート。"
+      price: "¥3,000～8,000"
+      rating: 4.6
+      url: "https://www.amazon.co.jp/s?k=スイムゴーグル+トライアスロン"
+
+    - name: "エアロヘルメット"
+      description: "空気抵抗を低減。高速走行時の安全性も確保。"
+      price: "¥25,000～50,000"
+      rating: 4.7
+      url: "https://www.amazon.co.jp/s?k=エアロヘルメット+ロードバイク"
+
+# テンプレート（必要に応じてコピーして使用）
+# category-name:
+#   title: "ランキングのタイトル"
+#   subtitle: "ランキングの説明文"
+#   items:
+#     - name: "商品名1"
+#       description: "商品説明。2～3行程度。"
+#       price: "¥000,000"
+#       rating: 4.5
+#       url: "https://affiliate-link.com"

@@ -1,0 +1,178 @@
+baseURL = "https://executive-marathon.com/"
+languageCode = "ja-jp"
+title = "Executive Marathon - ビジネスパーソンのための健康とキャリア戦略"
+theme = "LoveIt"
+enableEmoji = true
+enableInlineShortcodes = true
+
+# Output Formats
+[outputs]
+  home = ["HTML", "JSON"]
+  page = ["HTML"]
+  section = ["HTML"]
+  taxonomyTerm = ["HTML"]
+  taxonomy = ["HTML"]
+
+# Security settings
+[security]
+  enableInlineShortcodes = false
+  [security.exec]
+    allow = ["^dart-sass-embedded$", "^go$", "^npx$", "^postcss$"]
+  [security.funcs]
+    patterns = ["^debug"]
+  [security.goTemplates]
+    allowActionJSStr = false
+  [security.http]
+    methods = ["(?i)GET|POST"]
+    urls = [".*"]
+
+# Author information
+[author]
+  name = "Executive Marathon"
+
+# Menu configuration
+[menu]
+  [[menu.main]]
+    identifier = "posts"
+    pre = ""
+    post = ""
+    name = "記事"
+    url = "/posts/"
+    title = ""
+    weight = 1
+  [[menu.main]]
+    identifier = "categories"
+    pre = ""
+    post = ""
+    name = "カテゴリ"
+    url = "/categories/"
+    title = ""
+    weight = 2
+  [[menu.main]]
+    identifier = "tags"
+    pre = ""
+    post = ""
+    name = "タグ"
+    url = "/tags/"
+    title = ""
+    weight = 3
+  [[menu.main]]
+    identifier = "about"
+    pre = ""
+    post = ""
+    name = "このサイトについて"
+    url = "/about/"
+    title = ""
+    weight = 4
+
+# Taxonomies
+[taxonomies]
+  category = "categories"
+  tag = "tags"
+
+# Parameters
+[params]
+  # Color theme
+  colorScheme = "auto"
+
+  # Light mode / Dark mode
+  darkMode = true
+
+  # CDN (Cloudflare)
+  CDN = "https://cdn.jsdelivr.net/gh/dillonzq/LoveIt@gh-pages"
+
+  # SEO
+  [params.seo]
+    image = "/images/og-image.png"
+    thumbnailUrl = "/images/thumbnail.png"
+
+  # Page footer
+  [params.footer]
+    enable = true
+    custom = ""
+    hugo = false
+    copyright = true
+    author = true
+    since = 2026
+
+  # Home page
+  [params.home]
+    # Quantity of posts in each page
+    rss = 10
+    # Quantity of featured posts
+    featured = 5
+    # recent posts
+    recent = 10
+    # recent updated posts
+    recentUpdate = 10
+
+  # Posts page config
+  [params.posts]
+    # Quantity of posts in each page
+    paginate = 10
+    # whether to show word count
+    wordCount = true
+
+  # Social share & author's comment
+  [params.share]
+    enable = true
+    Twitter = true
+    Facebook = true
+    Pinterest = true
+    Linkedin = true
+    Whatsapp = true
+    Reddit = true
+    Email = true
+
+  # Comment config
+  [params.comment]
+    enable = false
+
+  # Analytics
+  [params.analytics]
+    enable = false
+    # Google Analytics
+    [params.analytics.google]
+      id = ""
+
+  # Sponsor section config
+  [params.sponsor]
+    enable = false
+
+  # Affiliate Links (Custom)
+  [params.affiliate]
+    enable = true
+    # Affiliate link style: "button", "text"
+    style = "button"
+
+  # Ads section config
+  [params.ads]
+    enable = false
+
+# Markup Goldmark
+[markup]
+  [markup.goldmark.extensions]
+    strikethrough = true
+    subscript = true
+    superscript = true
+    typographer = false
+    table = true
+    tasklist = true
+  [markup.goldmark.parser.attribute]
+    enable = true
+  [markup.goldmark.renderer]
+    hardWraps = false
+    unsafe = true
+    xhtml = false
+
+# Frontmatter formats (support YAML and TOML)
+[frontmatter]
+  date = ["date", "publishDate", "lastmod"]
+  lastmod = [":git", "lastmod", "date", "publishDate"]
+  publishDate = ["publishDate", "date"]
+  expiryDate = ["expiryDate"]
+
+# Custom CSS
+[params.customCSS]
+  enable = true
+  path = "css/custom.css"

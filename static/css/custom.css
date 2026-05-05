@@ -1,0 +1,271 @@
+/* ========== Affiliate Links Styling ========== */
+
+.affiliate-link {
+  margin: 1.5rem 0;
+  padding: 1rem;
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  border-radius: 8px;
+  box-shadow: 0 4px 6px rgba(102, 126, 234, 0.2);
+}
+
+.affiliate-link a {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+  color: white;
+  text-decoration: none;
+  font-weight: 600;
+  font-size: 1rem;
+  transition: all 0.3s ease;
+  padding: 0.5rem 1rem;
+  border-radius: 4px;
+  background: rgba(255, 255, 255, 0.2);
+}
+
+.affiliate-link a:hover {
+  background: rgba(255, 255, 255, 0.35);
+  transform: translateY(-2px);
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+.affiliate-icon {
+  font-size: 1.5rem;
+  display: inline-block;
+}
+
+.affiliate-text {
+  flex: 1;
+}
+
+.affiliate-arrow {
+  margin-left: auto;
+  font-weight: bold;
+}
+
+.affiliate-description {
+  margin: 0.75rem 0 0 0;
+  color: rgba(255, 255, 255, 0.9);
+  font-size: 0.9rem;
+  line-height: 1.5;
+}
+
+.affiliate-error {
+  padding: 1rem;
+  background: #fee;
+  border-left: 4px solid #f44;
+  border-radius: 4px;
+  color: #c00;
+  font-size: 0.9rem;
+}
+
+/* ========== Ranking Styling ========== */
+
+.ranking-container {
+  margin: 2rem 0;
+  background: #f8f9fa;
+  border-radius: 8px;
+  overflow: hidden;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+}
+
+.ranking-header {
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  color: white;
+  padding: 1.5rem;
+  text-align: center;
+}
+
+.ranking-title {
+  margin: 0;
+  font-size: 1.5rem;
+  font-weight: 700;
+}
+
+.ranking-subtitle {
+  margin: 0.5rem 0 0 0;
+  font-size: 0.95rem;
+  opacity: 0.9;
+}
+
+.ranking-list {
+  padding: 1.5rem;
+}
+
+.ranking-item {
+  display: flex;
+  gap: 1rem;
+  padding: 1rem;
+  margin-bottom: 1rem;
+  background: white;
+  border-radius: 6px;
+  border-left: 4px solid #667eea;
+  transition: all 0.3s ease;
+}
+
+.ranking-item:hover {
+  box-shadow: 0 4px 12px rgba(102, 126, 234, 0.2);
+  transform: translateX(4px);
+}
+
+.ranking-item.rank-1 {
+  border-left-color: #ffd700;
+  background: linear-gradient(to right, rgba(255, 215, 0, 0.05), transparent);
+}
+
+.ranking-item.rank-2 {
+  border-left-color: #c0c0c0;
+  background: linear-gradient(to right, rgba(192, 192, 192, 0.05), transparent);
+}
+
+.ranking-item.rank-3 {
+  border-left-color: #cd7f32;
+  background: linear-gradient(to right, rgba(205, 127, 50, 0.05), transparent);
+}
+
+.ranking-badge {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2rem;
+  min-width: 60px;
+  height: 60px;
+}
+
+.rank-number {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  background: #667eea;
+  color: white;
+  font-weight: 700;
+  font-size: 1.2rem;
+}
+
+.ranking-content {
+  flex: 1;
+}
+
+.ranking-item-title {
+  font-size: 1.1rem;
+  font-weight: 600;
+  margin-bottom: 0.5rem;
+}
+
+.ranking-item-title a {
+  color: #667eea;
+  text-decoration: none;
+  transition: color 0.3s ease;
+}
+
+.ranking-item-title a:hover {
+  color: #764ba2;
+  text-decoration: underline;
+}
+
+.ranking-description {
+  margin: 0.5rem 0;
+  font-size: 0.95rem;
+  color: #555;
+  line-height: 1.5;
+}
+
+.ranking-price {
+  display: inline-block;
+  margin: 0.5rem 0;
+  font-weight: 600;
+  color: #667eea;
+  font-size: 1rem;
+}
+
+.ranking-rating {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  margin-top: 0.5rem;
+  font-size: 0.95rem;
+}
+
+.rating-text {
+  color: #666;
+  font-weight: 500;
+}
+
+.ranking-error {
+  padding: 1.5rem;
+  background: #fee;
+  border-left: 4px solid #f44;
+  border-radius: 4px;
+  color: #c00;
+  font-size: 0.95rem;
+  text-align: center;
+}
+
+/* ========== Responsive Design ========== */
+
+@media (max-width: 768px) {
+  .affiliate-link a {
+    font-size: 0.95rem;
+    flex-wrap: wrap;
+  }
+
+  .ranking-item {
+    flex-direction: column;
+    gap: 0.75rem;
+  }
+
+  .ranking-badge {
+    font-size: 1.5rem;
+    min-width: 50px;
+    height: 50px;
+  }
+
+  .ranking-title {
+    font-size: 1.25rem;
+  }
+
+  .ranking-item-title {
+    font-size: 1rem;
+  }
+}
+
+/* ========== Light/Dark Mode Support ========== */
+
+:root[data-theme="dark"] .affiliate-link {
+  background: linear-gradient(135deg, #5568d3 0%, #6b3da1 100%);
+}
+
+:root[data-theme="dark"] .ranking-container {
+  background: #1a1a1a;
+}
+
+:root[data-theme="dark"] .ranking-item {
+  background: #2a2a2a;
+  border-left-color: #5568d3;
+}
+
+:root[data-theme="dark"] .ranking-description {
+  color: #aaa;
+}
+
+:root[data-theme="dark"] .rank-number {
+  background: #5568d3;
+}
+
+:root[data-theme="dark"] .ranking-item-title a {
+  color: #7c8ee8;
+}
+
+:root[data-theme="dark"] .ranking-item-title a:hover {
+  color: #9fb3ff;
+}
+
+:root[data-theme="dark"] .ranking-price {
+  color: #7c8ee8;
+}
+
+:root[data-theme="dark"] .rating-text {
+  color: #999;
+}

@@ -1,0 +1,83 @@
+{{- /* SEO Meta Tags */ -}}
+
+{{- $title := .Title | default .Site.Title -}}
+{{- $description := .Description | default .Summary | plainify | truncate 160 -}}
+{{- $url := .Permalink -}}
+{{- $image := .Params.image | default .Site.Params.seo.image -}}
+
+<!-- Meta Tags -->
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<meta name="description" content="{{ $description }}" />
+<meta name="keywords" content="{{ delimit .Keywords ", " }}" />
+<meta name="author" content="{{ .Params.author | default .Site.Author.name }}" />
+<meta name="robots" content="index, follow" />
+<meta name="language" content="ja-JP" />
+
+<!-- Open Graph / Facebook -->
+<meta property="og:type" content="{{ if .IsHome }}website{{ else }}article{{ end }}" />
+<meta property="og:url" content="{{ $url }}" />
+<meta property="og:title" content="{{ $title }}" />
+<meta property="og:description" content="{{ $description }}" />
+{{- if $image }}
+<meta property="og:image" content="{{ $image | absURL }}" />
+{{- end }}
+<meta property="og:site_name" content="{{ .Site.Title }}" />
+<meta property="og:locale" content="ja_JP" />
+
+<!-- Twitter -->
+<meta property="twitter:card" content="summary_large_image" />
+<meta property="twitter:url" content="{{ $url }}" />
+<meta property="twitter:title" content="{{ $title }}" />
+<meta property="twitter:description" content="{{ $description }}" />
+{{- if $image }}
+<meta property="twitter:image" content="{{ $image | absURL }}" />
+{{- end }}
+
+<!-- Canonical -->
+<link rel="canonical" href="{{ $url }}" />
+
+<!-- Alternate links for translations -->
+{{- range .AllTranslations }}
+<link rel="alternate" hreflang="{{ .Language.Lang }}" href="{{ .Permalink }}" />
+{{- end }}
+
+<!-- Structured Data (JSON-LD) -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "{{ if .IsHome }}WebSite{{ else }}BlogPosting{{ end }}",
+  "name": "{{ $title }}",
+  "description": "{{ $description }}",
+  "url": "{{ $url }}",
+  {{- if $image }}
+  "image": "{{ $image | absURL }}",
+  {{- end }}
+  {{- if not .IsHome }}
+  "author": {
+    "@type": "Person",
+    "name": "{{ .Params.author | default .Site.Author.name }}"
+  },
+  "datePublished": "{{ .PublishDate.Format "2006-01-02T15:04:05Z07:00" }}",
+  "dateModified": "{{ .Lastmod.Format "2006-01-02T15:04:05Z07:00" }}",
+  {{- end }}
+  "publisher": {
+    "@type": "Organization",
+    "name": "{{ .Site.Title }}",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "{{ .Site.BaseURL }}images/logo.png"
+    }
+  },
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "{{ $url }}"
+  }
+}
+</script>
+
+<!-- Additional SEO Tags -->
+<meta name="google-site-verification" content="" />
+<link rel="alternate" type="application/rss+xml" title="{{ .Site.Title }}" href="{{ .Site.BaseURL }}index.xml" />
+<link rel="manifest" href="{{ "manifest.json" | relURL }}" />
+<link rel="icon" type="image/x-icon" href="{{ "favicon.ico" | relURL }}" />

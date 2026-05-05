@@ -1,0 +1,70 @@
+# アフィリエイトリンク管理ファイル
+# 使用方法: {{< affiliate id="amazon-shoes-001" text="おすすめランニングシューズをAmazonで見る" >}}
+
+# ランニング・スポーツ関連
+amazon-shoes-001:
+  name: "ASICS GEL-KAYANO"
+  url: "https://www.amazon.co.jp/s?k=ASICS+GEL-KAYANO"
+  text: "ASICS GEL-KAYANO をAmazonで見る"
+  icon: "👟"
+  description: "プロランナーも愛用する高機能ランニングシューズ。クッション性と耐久性が抜群。"
+
+amazon-shoes-002:
+  name: "Nike Pegasus"
+  url: "https://www.amazon.co.jp/s?k=Nike+Pegasus"
+  text: "Nike Pegasus をAmazonで見る"
+  icon: "👟"
+  description: "初心者からプロまで幅広いランナーに支持されている定番モデル。"
+
+amazon-gps-watch:
+  name: "Garmin ForeRunner"
+  url: "https://www.amazon.co.jp/s?k=Garmin+ForeRunner"
+  text: "Garmin ForeRunner をAmazonで見る"
+  icon: "⌚"
+  description: "GPSランニングウォッチの定番。正確なデータ記録と分析機能が優秀。"
+
+# ビジネス・自己啓発関連
+amazon-book-001:
+  name: "ポモドーロ・テクニック"
+  url: "https://www.amazon.co.jp/s?k=ポモドーロテクニック"
+  text: "ポモドーロ・テクニックをAmazonで見る"
+  icon: "📚"
+  description: "時間管理の革命的手法。忙しいビジネスマンこそ必読の一冊。"
+
+amazon-book-002:
+  name: "Getting Things Done"
+  url: "https://www.amazon.co.jp/s?k=Getting+Things+Done"
+  text: "Getting Things Done をAmazonで見る"
+  icon: "📚"
+  description: "GTD仕事術の原点。世界中の経営者が実践している時間管理法。"
+
+# 健康・栄養関連
+amazon-supplement-001:
+  name: "BCAA サプリメント"
+  url: "https://www.amazon.co.jp/s?k=BCAA"
+  text: "BCAAsをAmazonで見る"
+  icon: "💊"
+  description: "スタミナと筋回復を強力にサポート。トレーニング効果を最大化。"
+
+amazon-supplement-002:
+  name: "プロテインパウダー"
+  url: "https://www.amazon.co.jp/s?k=プロテイン"
+  text: "プロテインをAmazonで見る"
+  icon: "💊"
+  description: "高品質プロテイン。忙しいエグゼクティブの栄養補給に最適。"
+
+# ファイナンス関連
+amazon-book-finance:
+  name: "金融リテラシー入門"
+  url: "https://www.amazon.co.jp/s?k=金融リテラシー"
+  text: "金融リテラシー本をAmazonで見る"
+  icon: "💰"
+  description: "経営者必須の金融知識。リスク管理と投資戦略の基本が学べる。"
+
+# テンプレート（必要に応じてコピーして使用）
+# example-id:
+#   name: "商品名"
+#   url: "https://affiliate-link.com"
+#   text: "ボタンのテキスト"
+#   icon: "🎯"
+#   description: "商品の説明文。最大2〜3行程度。"
