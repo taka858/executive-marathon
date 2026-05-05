@@ -1,8 +1,9 @@
 ---
 title: "仕事で忙しいエグゼクティブがトライアスロン・マラソンを始めるべき理由"
-date: 2024-04-26
+date: 2026-04-26
 slug: "why-executives-should-run-triathlon"
 description: "年収3000万円以上のビジネスマン向け。米国在住のテック経営者が実例で解説。"
+author: "Executive Marathon"
 categories:
   - Beginner
 tags:
@@ -47,4 +48,3 @@ draft: false
 
 忙しいエグゼキューティブこそ、マラソン・トライアスロンで人生が変わります。
 
-**次の記事**: [ランニングシューズ選びガイド](/posts/running-shoes-guide/)

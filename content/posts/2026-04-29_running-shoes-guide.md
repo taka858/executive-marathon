@@ -2,6 +2,7 @@
 title: "ランニングシューズ選びガイド：ビジネス的最適化 × テクノロジー"
 date: 2026-04-29
 description: "スタンフォード経営分析×システム統合経験から。科学的にシューズを選ぶ方法と長期コスト最適化戦略。"
+author: "Executive Marathon"
 categories: ["Equipment", "Beginner"]
 tags: ["running-shoes", "cost-optimization", "biomechanics", "decision-making"]
 draft: false
@@ -179,7 +180,7 @@ draft: false
 
 ## 6. 次のステップ
 
-1. **[マラソン選手のケガ予防戦略](/posts/001-risk-management-prevention/)** を読んで、シューズ選びがケガ予防に果たす役割を理解する
+1. **シューズ選びがケガ予防に果たす役割を理解する
 2. **近所の専門店で足型分析** を受ける（無料）
 3. **複数モデルの試走** を2-4週間実施する
 4. **4週間の検証期間** を経て、メイン使用シューズを決定する
@@ -199,6 +200,3 @@ draft: false
 
 この科学的で冷徹なアプローチこそが、ランニングキャリアを長く、強く、怪我なく続けるための第一歩となるのだ。
 
----
-
-**次の記事**: [トライアスロン初心者向けトレーニング計画：12週間で完走](/posts/003-triathlon-training-plan/)
