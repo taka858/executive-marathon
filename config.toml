@@ -97,6 +97,7 @@ enableInlineShortcodes = true
 
   # Home page
   [params.home]
+    enable = true
     # Quantity of posts in each page
     rss = 10
     # Quantity of featured posts
