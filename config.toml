@@ -72,8 +72,8 @@ enableInlineShortcodes = true
 
 # Parameters
 [params]
-  subtitle = "Noble Endurance - 歩みを止めない。それが、リーダーの資質。"
-  description = "年収3000万円以上のエグゼクティブ向け。持久スポーツを通して、仕事で忙しい経営者の健康管理とキャリア戦略について解説します。"
+  subtitle = "Noble Endurance - テック背景を持つリーダーが、マラソンで学ぶこと。"
+  description = "VP/SVP/部門長などテック背景を持つ経営判断層向け。採用・解雇・事業管理・パートナー戦略など、実務的なリーダーシップの課題に直面するあなたに向けて、持久スポーツのメンタルトレーニングが判断力とレジリエンスにどう影響するかを、実体験ベースで解説します。"
 
   # Color theme
   colorScheme = "auto"

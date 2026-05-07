@@ -4,21 +4,21 @@
 # ランニング・スポーツ関連
 amazon-shoes-001:
   name: "ASICS GEL-KAYANO"
-  url: "https://www.amazon.co.jp/s?k=ASICS+GEL-KAYANO"
+  url: "https://www.amazon.co.jp/s?k=ASICS+GEL-KAYANO&tag=executivemara-22"
   text: "ASICS GEL-KAYANO をAmazonで見る"
   icon: "👟"
   description: "プロランナーも愛用する高機能ランニングシューズ。クッション性と耐久性が抜群。"
 
 amazon-shoes-002:
   name: "Nike Pegasus"
-  url: "https://www.amazon.co.jp/s?k=Nike+Pegasus"
+  url: "https://www.amazon.co.jp/s?k=Nike+Pegasus&tag=executivemara-22"
   text: "Nike Pegasus をAmazonで見る"
   icon: "👟"
   description: "初心者からプロまで幅広いランナーに支持されている定番モデル。"
 
 amazon-gps-watch:
   name: "Garmin ForeRunner"
-  url: "https://www.amazon.co.jp/s?k=Garmin+ForeRunner"
+  url: "https://www.amazon.co.jp/s?k=Garmin+ForeRunner&tag=executivemara-22"
   text: "Garmin ForeRunner をAmazonで見る"
   icon: "⌚"
   description: "GPSランニングウォッチの定番。正確なデータ記録と分析機能が優秀。"
@@ -26,14 +26,14 @@ amazon-gps-watch:
 # ビジネス・自己啓発関連
 amazon-book-001:
   name: "ポモドーロ・テクニック"
-  url: "https://www.amazon.co.jp/s?k=ポモドーロテクニック"
+  url: "https://www.amazon.co.jp/s?k=ポモドーロテクニック&tag=executivemara-22"
   text: "ポモドーロ・テクニックをAmazonで見る"
   icon: "📚"
   description: "時間管理の革命的手法。忙しいビジネスマンこそ必読の一冊。"
 
 amazon-book-002:
   name: "Getting Things Done"
-  url: "https://www.amazon.co.jp/s?k=Getting+Things+Done"
+  url: "https://www.amazon.co.jp/s?k=Getting+Things+Done&tag=executivemara-22"
   text: "Getting Things Done をAmazonで見る"
   icon: "📚"
   description: "GTD仕事術の原点。世界中の経営者が実践している時間管理法。"
@@ -41,14 +41,14 @@ amazon-book-002:
 # 健康・栄養関連
 amazon-supplement-001:
   name: "BCAA サプリメント"
-  url: "https://www.amazon.co.jp/s?k=BCAA"
+  url: "https://www.amazon.co.jp/s?k=BCAA&tag=executivemara-22"
   text: "BCAAsをAmazonで見る"
   icon: "💊"
   description: "スタミナと筋回復を強力にサポート。トレーニング効果を最大化。"
 
 amazon-supplement-002:
   name: "プロテインパウダー"
-  url: "https://www.amazon.co.jp/s?k=プロテイン"
+  url: "https://www.amazon.co.jp/s?k=プロテイン&tag=executivemara-22"
   text: "プロテインをAmazonで見る"
   icon: "💊"
   description: "高品質プロテイン。忙しいエグゼクティブの栄養補給に最適。"
@@ -56,7 +56,7 @@ amazon-supplement-002:
 # ファイナンス関連
 amazon-book-finance:
   name: "金融リテラシー入門"
-  url: "https://www.amazon.co.jp/s?k=金融リテラシー"
+  url: "https://www.amazon.co.jp/s?k=金融リテラシー&tag=executivemara-22"
   text: "金融リテラシー本をAmazonで見る"
   icon: "💰"
   description: "経営者必須の金融知識。リスク管理と投資戦略の基本が学べる。"
