@@ -1,6 +1,8 @@
 ---
 title: "このサイトについて"
 description: "Executive Marathon - エンジニアリングリーダーのためのマラソン×キャリア開発ブログ"
+type: "about"
+layout: "about"
 ---
 
 ## Executive Marathon とは
