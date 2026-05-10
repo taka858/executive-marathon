@@ -1,6 +1,7 @@
 ---
 title: "経営判断力を支える栄養戦略：エネルギー管理からパフォーマンス最適化へ"
 date: 2026-05-10
+slug: "nutrition-performance-leadership"
 description: "マラソンランナーの栄養管理戦略から学ぶ、ビジネスリーダーの脳パフォーマンス最適化。判断力、集中力、レジリエンスを支える栄養科学的アプローチ。"
 author: "Executive Marathon"
 categories: ["健康管理", "パフォーマンス", "栄養学"]
