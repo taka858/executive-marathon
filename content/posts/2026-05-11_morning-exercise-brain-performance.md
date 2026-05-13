@@ -1,6 +1,6 @@
 ---
 title: "朝のボランティアランで体感した脳化学：セロトニン、コルチゾル、判断力の関係"
-date: 2026-05-11
+date: 2026-05-11T00:00:00Z
 slug: "morning-exercise-brain-performance"
 description: "近所のマラソン大会でのボランティア経験から。朝の運動がセロトニン、ノルアドレナリンに与える影響、そして経営判断力へのダイレクトな効果を脳科学的に解明。"
 author: "Executive Marathon"
