@@ -5,6 +5,13 @@ description: "日々の経営判断で消費される意思決定リソースを
 author: "Executive Marathon"
 categories: ["リーダーシップ", "意思決定", "チームマネジメント"]
 tags: ["決定疲れ", "Decision Fatigue", "意思決定管理", "経営判断", "メンタル管理", "組織効率"]
+keywords:
+  - 決定疲れ
+  - 意思決定
+  - ペース配分
+  - 判断力管理
+  - リーダーシップ
+  - 脳パフォーマンス
 draft: false
 ---
 
@@ -167,3 +174,8 @@ A：走ったあとは、リカバリーが必要なように、判断疲労後�
 決定疲れに支配される経営者ではなく、**判断リソースを戦略的に配分する経営リーダーになる**。それが、組織を長期的に強化する、最も実績的なアプローチなのだ。
 
 今週から、あなたの判断ペースを見直してみませんか？
+
+**関連記事：**
+- [栄養戦略と脳パフォーマンス]({{<ref "nutrition-performance-leadership">}})
+- [朝運動と脳化学]({{<ref "morning-exercise-brain-performance">}})
+- [HRV（心拍変動）でリカバリー測定]({{<ref "hrv-recovery-measurement">}})

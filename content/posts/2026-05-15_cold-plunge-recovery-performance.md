@@ -6,6 +6,13 @@ description: "シリコンバレーの起業家・経営層が実践するCold P
 author: "Executive Marathon"
 categories: ["リカバリー", "脳パフォーマンス", "米国トレンド"]
 tags: ["ColdPlunge", "冷水浸浴", "リカバリー", "判断力", "ストレス耐性", "シリコンバレー"]
+keywords:
+  - Cold Plunge
+  - 冷水浸浴
+  - リカバリー
+  - ストレス耐性
+  - 脳パフォーマンス
+  - 米国トレンド
 draft: false
 ---
 
@@ -269,3 +276,8 @@ Zone 2トレーニング + 栄養管理 + Cold Plunge——この3つの組み�
 あなたも、今週末、試してみませんか？
 
 **「3分の冷水で、判断力が変わる。」** それがシリコンバレーの秘密。
+
+**関連記事：**
+- [HRV（心拍変動）でリカバリー測定]({{<ref "hrv-recovery-measurement">}})
+- [遠赤外線サウナでストレス軽減]({{<ref "sauna-recovery-wellness">}})
+- [Zone 2トレーニングでサブ3.5達成]({{<ref "zone2-training-sub35">}})

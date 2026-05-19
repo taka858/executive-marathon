@@ -5,6 +5,13 @@ description: "130人以上のチーム経営経験から。ビジネスのリス
 author: "Executive Marathon"
 categories: ["Training", "Injury Prevention"]
 tags: ["risk-management", "injury-prevention", "systems-thinking", "data-driven"]
+keywords:
+  - ケガ予防
+  - リスク管理
+  - システム思考
+  - 予防保全
+  - データ分析
+  - トレーニング管理
 draft: false
 ---
 
@@ -166,6 +173,11 @@ draft: false
 3. **2週間のトライアル** を実施してから、本格的なダッシュボード構築に進む
 
 ---
+
+**関連記事：**
+- [ランニングシューズ選びガイド]({{<ref "running-shoes-guide">}})
+- [オーバートレーニング症候群]({{<ref "overtraining-team-burnout">}})
+- [1on1面談でモチベーション引き出し]({{<ref "1on1-motivation-leadership">}})
 
 ## まとめ
 

@@ -6,6 +6,13 @@ description: "春先の気温上昇による判断力低下、疲労感増加の
 author: "Executive Marathon"
 categories: ["健康管理", "パフォーマンス", "季節管理"]
 tags: ["春", "気温上昇", "パフォーマンス低下", "体温管理", "脱水", "季節対応"]
+keywords:
+  - 季節管理
+  - パフォーマンス最適化
+  - 気温対応
+  - 脱水対策
+  - 水分補給
+  - 室温管理
 draft: false
 ---
 
@@ -188,3 +195,8 @@ A：異なる。春は気温上昇の過渡期。体がまだ夏に適応して�
 季節の変化に対応する組織と、対応しない組織には、春から夏にかけて明確なパフォーマンス差が生まれる。
 
 あなたのチームも、今週から「春対応」を開始してみませんか？
+
+**関連記事：**
+- [栄養戦略と脳パフォーマンス]({{<ref "nutrition-performance-leadership">}})
+- [朝運動と脳化学]({{<ref "morning-exercise-brain-performance">}})
+- [HRV（心拍変動）でリカバリー測定]({{<ref "hrv-recovery-measurement">}})

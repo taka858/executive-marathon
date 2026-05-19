@@ -12,6 +12,13 @@ tags:
   - ウォッチ
   - ガジェット
   - 比較
+keywords:
+  - ランニングウォッチ
+  - GPS計測
+  - 心拍計測
+  - Garmin
+  - Apple Watch
+  - 比較
 draft: false
 ---
 
@@ -230,6 +237,11 @@ A:
    - データ画面の見方を暗記
 
 ---
+
+**関連記事：**
+- [マラソン登録ガイド]({{<ref "marathon-registration-guide">}})
+- [HRV（心拍変動）でリカバリー測定]({{<ref "hrv-recovery-measurement">}})
+- [Zone 2トレーニングでサブ3.5達成]({{<ref "zone2-training-sub35">}})
 
 ## まとめ
 

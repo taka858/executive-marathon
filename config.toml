@@ -131,10 +131,10 @@ enableInlineShortcodes = true
 
   # Analytics
   [params.analytics]
-    enable = false
+    enable = true
     # Google Analytics
     [params.analytics.google]
-      id = ""
+      id = "G-XXXXXXXXXX"  # Replace with your GA4 measurement ID
 
   # Sponsor section config
   [params.sponsor]

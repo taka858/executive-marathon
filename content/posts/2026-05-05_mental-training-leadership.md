@@ -14,6 +14,13 @@ tags:
   - トライアスロン
   - エンジニア
   - チーム運営
+keywords:
+  - メンタルトレーニング
+  - リーダーシップ
+  - 判断力
+  - ストレス管理
+  - 自己啓発
+  - マラソン
 draft: false
 ---
 
@@ -186,3 +193,8 @@ draft: false
 その時に何が起こるか。その感覚が、会議室での判断を少しだけ変えるかもしれません。
 
 それだけで十分だと思う。
+
+**関連記事：**
+- [なぜ、部門長はマラソンを走るのか]({{<ref "why-executives-should-run-triathlon">}})
+- [朝運動と脳化学]({{<ref "morning-exercise-brain-performance">}})
+- [1on1面談でモチベーション引き出し]({{<ref "1on1-motivation-leadership">}})

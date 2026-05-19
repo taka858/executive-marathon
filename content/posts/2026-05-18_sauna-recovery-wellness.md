@@ -6,6 +6,13 @@ description: "Cold Plunge は怖い。そんなあなたへ、シリコンバレ
 author: "Executive Marathon"
 categories: ["リカバリー", "脳パフォーマンス", "米国トレンド"]
 tags: ["サウナ", "遠赤外線", "リカバリー", "ストレス軽減", "脳パフォーマンス", "シリコンバレー"]
+keywords:
+  - 遠赤外線サウナ
+  - リカバリー
+  - ストレス軽減
+  - 睡眠改善
+  - 脳パフォーマンス
+  - ウェルネス
 draft: false
 ---
 
@@ -338,3 +345,8 @@ Cold Plunge よりも：
 あなたのジムに遠赤外線サウナがあれば、今週末から始めましょう。
 
 **「30分の温かさで、脳と心がリセットされる。」** それが遠赤外線サウナの力。
+
+**関連記事：**
+- [Cold Plunge（冷水浸浴）でリカバリー]({{<ref "cold-plunge-recovery-performance">}})
+- [HRV（心拍変動）でリカバリー測定]({{<ref "hrv-recovery-measurement">}})
+- [栄養戦略と脳パフォーマンス]({{<ref "nutrition-performance-leadership">}})
