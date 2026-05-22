@@ -303,6 +303,6 @@ HRV は、そのリカバリーが「実際に起きているか」を「数値�
 **「数字が、あなたの判断力をコントロールする。」** それが HRV の力。
 
 **関連記事：**
-- [Cold Plunge（冷水浸浴）でリカバリー]({{<ref "cold-plunge-recovery-performance">}})
-- [遠赤外線サウナでストレス軽減]({{<ref "sauna-recovery-wellness">}})
-- [栄養戦略と脳パフォーマンス]({{<ref "nutrition-performance-leadership">}})
+- [Cold Plunge（冷水浸浴）でリカバリーと判断力を加速：シリコンバレーの秘密兵器](/posts/cold-plunge-recovery-performance/)
+- [遠赤外線サウナでストレス軽減と脳パフォーマンス：Cold Plunge が怖い人向けのシリコンバレー流リカバリー](/posts/sauna-recovery-wellness/)
+- [経営判断力を支える栄養戦略：エネルギー管理からパフォーマンス最適化へ](/posts/nutrition-performance-leadership/)

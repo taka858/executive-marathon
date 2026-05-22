@@ -278,6 +278,6 @@ Zone 2トレーニング + 栄養管理 + Cold Plunge——この3つの組み�
 **「3分の冷水で、判断力が変わる。」** それがシリコンバレーの秘密。
 
 **関連記事：**
-- [HRV（心拍変動）でリカバリー測定]({{<ref "hrv-recovery-measurement">}})
-- [遠赤外線サウナでストレス軽減]({{<ref "sauna-recovery-wellness">}})
-- [Zone 2トレーニングでサブ3.5達成]({{<ref "zone2-training-sub35">}})
+- [HRV（心拍変動）でリカバリーと判断力を科学的に測定：シリコンバレーのリーダーはなぜ数字を見るのか](/posts/hrv-recovery-measurement/)
+- [遠赤外線サウナでストレス軽減と脳パフォーマンス：Cold Plunge が怖い人向けのシリコンバレー流リカバリー](/posts/sauna-recovery-wellness/)
+- [Zone 2トレーニングで1年でサブ3.5達成：米国流・低負荷・高効率マラソン戦略](/posts/zone2-training-sub35/)

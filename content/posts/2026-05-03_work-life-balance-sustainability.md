@@ -101,9 +101,9 @@ A: 初期段階こそ、基礎を築く時期です。焦りを持たず、確�
 来週は、「イノベーションとは何か」について掘り下げます。持続可能なキャリアの中で、いかに革新性を保つのか——という課題に取り組みましょう。
 
 **関連記事：**
-- [1%改善の力]({{<ref "innovation-continuous-improvement">}})
-- [決定疲れを制御する経営リーダー]({{<ref "decision-fatigue-leadership">}})
-- [オーバートレーニング症候群]({{<ref "overtraining-team-burnout">}})
+- [1%の改善の力：マラソンランナーが学ぶ継続的改善の方程式](/posts/innovation-continuous-improvement/)
+- [決定疲れを制御する経営リーダー：マラソンペーシングから学ぶ判断力の維持](/posts/decision-fatigue-leadership/)
+- [優秀な部下が辞める前に：オーバートレーニング症候群と組織のペース管理](/posts/overtraining-team-burnout/)
 
 ## まとめ
 

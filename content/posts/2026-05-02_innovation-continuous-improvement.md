@@ -115,9 +115,9 @@ A：ない。むしろマラソンは最高のビジネス教材だ。タイム�
 それを1週間続け、結果を記録する。それが全てだ。
 
 **関連記事：**
-- [金銭的フィットネス戦略]({{<ref "financial-fitness">}})
-- [持続可能なキャリア構築]({{<ref "work-life-balance-sustainability">}})
-- [メンタルトレーニングとリーダーシップ]({{<ref "mental-training-leadership">}})
+- [マラソンで成功する金銭的フィットネス戦略](/posts/financial-fitness/)
+- [マラソンランナーに学ぶ、持続可能なキャリア構築法](/posts/work-life-balance-sustainability/)
+- [エンジニアリングリーダーとして、マラソンで学んだこと](/posts/mental-training-leadership/)
 
 ## まとめ
 

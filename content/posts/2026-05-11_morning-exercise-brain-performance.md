@@ -246,6 +246,6 @@ A：段階的に低下する。セロトニン分泌は、運動をやめると3
 あなたも、来週から朝運動を試してみませんか？
 
 **関連記事：**
-- [メンタルトレーニングとリーダーシップ]({{<ref "mental-training-leadership">}})
-- [栄養戦略と脳パフォーマンス]({{<ref "nutrition-performance-leadership">}})
-- [遠赤外線サウナでストレス軽減]({{<ref "sauna-recovery-wellness">}})
+- [エンジニアリングリーダーとして、マラソンで学んだこと](/posts/mental-training-leadership/)
+- [経営判断力を支える栄養戦略：エネルギー管理からパフォーマンス最適化へ](/posts/nutrition-performance-leadership/)
+- [遠赤外線サウナでストレス軽減と脳パフォーマンス：Cold Plunge が怖い人向けのシリコンバレー流リカバリー](/posts/sauna-recovery-wellness/)

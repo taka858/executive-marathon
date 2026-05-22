@@ -227,9 +227,9 @@ A: 無理は禁物。医者の診察を受ける。3週間休んでも、本番�
 ---
 
 **関連記事：**
-- [ランニングシューズ選びガイド]({{<ref "running-shoes-guide">}})
-- [ランニングウォッチ徹底比較]({{<ref "running-watch-comparison">}})
-- [Zone 2トレーニングでサブ3.5達成]({{<ref "zone2-training-sub35">}})
+- [ランニングシューズ選びガイド：ビジネス的最適化 × テクノロジー](/posts/running-shoes-guide/)
+- [ランニングウォッチ徹底比較：Garmin vs Apple Watch vs Polar](/posts/running-watch-comparison/)
+- [Zone 2トレーニングで1年でサブ3.5達成：米国流・低負荷・高効率マラソン戦略](/posts/zone2-training-sub35/)
 
 ## まとめ
 

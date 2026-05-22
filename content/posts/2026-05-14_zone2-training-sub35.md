@@ -269,6 +269,6 @@ Zone 2 トレーニングは：
 今週から、試してみませんか？
 
 **関連記事：**
-- [マラソン登録ガイド]({{<ref "marathon-registration-guide">}})
-- [Cold Plunge（冷水浸浴）でリカバリー]({{<ref "cold-plunge-recovery-performance">}})
-- [HRV（心拍変動）でリカバリー測定]({{<ref "hrv-recovery-measurement">}})
+- [初めてのマラソン登録：部門長のための実践ガイド](/posts/marathon-registration-guide/)
+- [Cold Plunge（冷水浸浴）でリカバリーと判断力を加速：シリコンバレーの秘密兵器](/posts/cold-plunge-recovery-performance/)
+- [HRV（心拍変動）でリカバリーと判断力を科学的に測定：シリコンバレーのリーダーはなぜ数字を見るのか](/posts/hrv-recovery-measurement/)

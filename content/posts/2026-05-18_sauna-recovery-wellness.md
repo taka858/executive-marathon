@@ -347,6 +347,6 @@ Cold Plunge よりも：
 **「30分の温かさで、脳と心がリセットされる。」** それが遠赤外線サウナの力。
 
 **関連記事：**
-- [Cold Plunge（冷水浸浴）でリカバリー]({{<ref "cold-plunge-recovery-performance">}})
-- [HRV（心拍変動）でリカバリー測定]({{<ref "hrv-recovery-measurement">}})
-- [栄養戦略と脳パフォーマンス]({{<ref "nutrition-performance-leadership">}})
+- [Cold Plunge（冷水浸浴）でリカバリーと判断力を加速：シリコンバレーの秘密兵器](/posts/cold-plunge-recovery-performance/)
+- [HRV（心拍変動）でリカバリーと判断力を科学的に測定：シリコンバレーのリーダーはなぜ数字を見るのか](/posts/hrv-recovery-measurement/)
+- [経営判断力を支える栄養戦略：エネルギー管理からパフォーマンス最適化へ](/posts/nutrition-performance-leadership/)

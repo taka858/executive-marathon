@@ -195,6 +195,6 @@ draft: false
 それだけで十分だと思う。
 
 **関連記事：**
-- [なぜ、部門長はマラソンを走るのか]({{<ref "why-executives-should-run-triathlon">}})
-- [朝運動と脳化学]({{<ref "morning-exercise-brain-performance">}})
-- [1on1面談でモチベーション引き出し]({{<ref "1on1-motivation-leadership">}})
+- [なぜ、部門長はマラソンを走るのか](/posts/why-executives-should-run-triathlon/)
+- [朝のボランティアランで体感した脳化学：セロトニン、コルチゾル、判断力の関係](/posts/morning-exercise-brain-performance/)
+- [1on1面談が機能しない理由：部下のモチベーション源を見つけるマラソンランナー的アプローチ](/posts/1on1-motivation-leadership/)

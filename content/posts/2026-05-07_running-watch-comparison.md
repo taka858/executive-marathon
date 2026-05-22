@@ -239,9 +239,9 @@ A:
 ---
 
 **関連記事：**
-- [マラソン登録ガイド]({{<ref "marathon-registration-guide">}})
-- [HRV（心拍変動）でリカバリー測定]({{<ref "hrv-recovery-measurement">}})
-- [Zone 2トレーニングでサブ3.5達成]({{<ref "zone2-training-sub35">}})
+- [初めてのマラソン登録：部門長のための実践ガイド](/posts/marathon-registration-guide/)
+- [HRV（心拍変動）でリカバリーと判断力を科学的に測定：シリコンバレーのリーダーはなぜ数字を見るのか](/posts/hrv-recovery-measurement/)
+- [Zone 2トレーニングで1年でサブ3.5達成：米国流・低負荷・高効率マラソン戦略](/posts/zone2-training-sub35/)
 
 ## まとめ
 

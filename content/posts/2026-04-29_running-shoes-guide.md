@@ -225,9 +225,9 @@ draft: false
 {{< ranking category="running-shoes" >}}
 
 **関連記事：**
-- [ケガ予防とシステム障害]({{<ref "risk-management-prevention">}})
-- [ランニングウォッチ徹底比較]({{<ref "running-watch-comparison">}})
-- [マラソン登録ガイド]({{<ref "marathon-registration-guide">}})
+- [マラソン選手のケガは『システム障害』—ビジネスの予防保全思想からの学び](/posts/risk-management-prevention/)
+- [ランニングウォッチ徹底比較：Garmin vs Apple Watch vs Polar](/posts/running-watch-comparison/)
+- [初めてのマラソン登録：部門長のための実践ガイド](/posts/marathon-registration-guide/)
 
 ---
 

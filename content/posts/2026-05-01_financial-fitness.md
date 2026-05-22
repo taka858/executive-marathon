@@ -99,9 +99,9 @@ A：予防セッション（$60～$100/回、2～4回）は、故障後の治療
 小さな判断の積み重ねが大きな結果を生む。マラソンでも、人生の財務管理でも同じだ。
 
 **関連記事：**
-- [1%改善の力]({{<ref "innovation-continuous-improvement">}})
-- [持続可能なキャリア構築]({{<ref "work-life-balance-sustainability">}})
-- [ランニングウォッチ徹底比較]({{<ref "running-watch-comparison">}})
+- [1%の改善の力：マラソンランナーが学ぶ継続的改善の方程式](/posts/innovation-continuous-improvement/)
+- [マラソンランナーに学ぶ、持続可能なキャリア構築法](/posts/work-life-balance-sustainability/)
+- [ランニングウォッチ徹底比較：Garmin vs Apple Watch vs Polar](/posts/running-watch-comparison/)
 
 ## まとめ
 

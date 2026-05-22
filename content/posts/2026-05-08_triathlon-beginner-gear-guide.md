@@ -247,6 +247,6 @@ A: あります。ブレスト部分がフィット。購入時は必ず「女�
 3つのスポーツを同時進行で、あなたのメンタルは確実に磨かれています。
 
 **関連記事：**
-- [なぜ、部門長はマラソンを走るのか]({{<ref "why-executives-should-run-triathlon">}})
-- [ランニングシューズ選びガイド]({{<ref "running-shoes-guide">}})
-- [金銭的フィットネス戦略]({{<ref "financial-fitness">}})
+- [なぜ、部門長はマラソンを走るのか](/posts/why-executives-should-run-triathlon/)
+- [ランニングシューズ選びガイド：ビジネス的最適化 × テクノロジー](/posts/running-shoes-guide/)
+- [マラソンで成功する金銭的フィットネス戦略](/posts/financial-fitness/)

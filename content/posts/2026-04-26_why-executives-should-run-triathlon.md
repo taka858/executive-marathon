@@ -159,9 +159,9 @@ draft: false
 {{< affiliate id="amazon-book-001" text="判断力とメンタルに関するビジネス書 - Amazon で見る" >}}
 
 **関連記事：**
-- [メンタルトレーニングとリーダーシップ]({{<ref "mental-training-leadership">}})
-- [決定疲れを制御する経営リーダー]({{<ref "decision-fatigue-leadership">}})
-- [1on1面談でモチベーション引き出し]({{<ref "1on1-motivation-leadership">}})
+- [エンジニアリングリーダーとして、マラソンで学んだこと](/posts/mental-training-leadership/)
+- [決定疲れを制御する経営リーダー：マラソンペーシングから学ぶ判断力の維持](/posts/decision-fatigue-leadership/)
+- [1on1面談が機能しない理由：部下のモチベーション源を見つけるマラソンランナー的アプローチ](/posts/1on1-motivation-leadership/)
 
 採用で悩む日も、解雇で辛い日も、パートナー企業との交渉で疲れ果てた日も。
 

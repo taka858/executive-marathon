@@ -175,9 +175,9 @@ draft: false
 ---
 
 **関連記事：**
-- [ランニングシューズ選びガイド]({{<ref "running-shoes-guide">}})
-- [オーバートレーニング症候群]({{<ref "overtraining-team-burnout">}})
-- [1on1面談でモチベーション引き出し]({{<ref "1on1-motivation-leadership">}})
+- [ランニングシューズ選びガイド：ビジネス的最適化 × テクノロジー](/posts/running-shoes-guide/)
+- [優秀な部下が辞める前に：オーバートレーニング症候群と組織のペース管理](/posts/overtraining-team-burnout/)
+- [1on1面談が機能しない理由：部下のモチベーション源を見つけるマラソンランナー的アプローチ](/posts/1on1-motivation-leadership/)
 
 ## まとめ
 

@@ -343,6 +343,6 @@ A：軽度（疲労度 6-7）なら 2-3週間。中程度（疲労度 7-8）な�
 **「疲れきった優秀さより、持続可能な成長。」** それがリーダーの責務。
 
 **関連記事：**
-- [持続可能なキャリア構築]({{<ref "work-life-balance-sustainability">}})
-- [1on1面談でモチベーション引き出し]({{<ref "1on1-motivation-leadership">}})
-- [リモートワーク時代の判断力維持]({{<ref "remote-team-brain-performance">}})
+- [マラソンランナーに学ぶ、持続可能なキャリア構築法](/posts/work-life-balance-sustainability/)
+- [1on1面談が機能しない理由：部下のモチベーション源を見つけるマラソンランナー的アプローチ](/posts/1on1-motivation-leadership/)
+- [リモートワーク時代の判断力維持：分散チームで脳パフォーマンスを最大化する](/posts/remote-team-brain-performance/)

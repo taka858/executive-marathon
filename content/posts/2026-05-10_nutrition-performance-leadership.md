@@ -214,6 +214,6 @@ A：限定的。睡眠不足は、いかなる栄養戦略もカバーできな�
 今週から、あなたの栄養パターンを見直してみませんか？
 
 **関連記事：**
-- [決定疲れを制御する経営リーダー]({{<ref "decision-fatigue-leadership">}})
-- [朝運動と脳化学]({{<ref "morning-exercise-brain-performance">}})
-- [HRV（心拍変動）でリカバリー測定]({{<ref "hrv-recovery-measurement">}})
+- [決定疲れを制御する経営リーダー：マラソンペーシングから学ぶ判断力の維持](/posts/decision-fatigue-leadership/)
+- [朝のボランティアランで体感した脳化学：セロトニン、コルチゾル、判断力の関係](/posts/morning-exercise-brain-performance/)
+- [HRV（心拍変動）でリカバリーと判断力を科学的に測定：シリコンバレーのリーダーはなぜ数字を見るのか](/posts/hrv-recovery-measurement/)
