@@ -4,10 +4,10 @@
 {{- $page := . -}}
 
 {{- /* Get related posts by tags */ -}}
-{{- if .Tags -}}
-  {{- range .Tags -}}
+{{- if .Params.tags -}}
+  {{- range .Params.tags -}}
     {{- $tag := . -}}
-    {{- range where .Site.RegularPages "Tags" "intersect" (slice $tag) -}}
+    {{- range where $.Site.RegularPages "Params.tags" "intersect" (slice $tag) -}}
       {{- if ne .Permalink $page.Permalink -}}
         {{- $related = $related | append . -}}
       {{- end -}}
