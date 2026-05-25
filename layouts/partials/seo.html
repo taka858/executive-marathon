@@ -77,7 +77,21 @@
 </script>
 
 <!-- Additional SEO Tags -->
-<meta name="google-site-verification" content="" />
+<meta name="google-site-verification" content="VERIFICATION_CODE_HERE" />
 <link rel="alternate" type="application/rss+xml" title="{{ .Site.Title }}" href="{{ .Site.BaseURL }}index.xml" />
 <link rel="manifest" href="{{ "manifest.json" | relURL }}" />
 <link rel="icon" type="image/x-icon" href="{{ "favicon.ico" | relURL }}" />
+
+<!-- Google Analytics 4 -->
+{{- if .Site.Params.analytics.enable }}
+{{- if .Site.Params.analytics.google.id }}
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id={{ .Site.Params.analytics.google.id }}"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', '{{ .Site.Params.analytics.google.id }}');
+</script>
+{{- end }}
+{{- end }}

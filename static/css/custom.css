@@ -269,3 +269,132 @@
 :root[data-theme="dark"] .rating-text {
   color: #999;
 }
+
+/* ========== Related Posts Styling ========== */
+
+.related-posts {
+  margin: 3rem 0 2rem 0;
+  padding: 1.5rem;
+  background: linear-gradient(135deg, rgba(102, 126, 234, 0.05) 0%, rgba(118, 75, 162, 0.05) 100%);
+  border-left: 4px solid #667eea;
+  border-radius: 8px;
+  border-top: 1px solid rgba(102, 126, 234, 0.2);
+}
+
+.related-posts-title {
+  margin: 0 0 1rem 0;
+  font-size: 1.2rem;
+  font-weight: 700;
+  color: #667eea;
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.related-posts-list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: grid;
+  gap: 0.75rem;
+}
+
+.related-posts-item {
+  margin: 0;
+  padding: 0.75rem;
+  background: white;
+  border-radius: 6px;
+  border: 1px solid rgba(102, 126, 234, 0.2);
+  transition: all 0.3s ease;
+}
+
+.related-posts-item:hover {
+  border-color: #667eea;
+  box-shadow: 0 2px 8px rgba(102, 126, 234, 0.15);
+  transform: translateX(4px);
+}
+
+.related-posts-link {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+  text-decoration: none;
+  color: inherit;
+  transition: color 0.3s ease;
+}
+
+.related-posts-link:hover {
+  color: #667eea;
+}
+
+.related-posts-date {
+  display: inline-block;
+  min-width: 80px;
+  font-size: 0.85rem;
+  color: #999;
+  font-weight: 500;
+  text-align: right;
+}
+
+.related-posts-text {
+  flex: 1;
+  font-size: 0.95rem;
+  font-weight: 500;
+  color: #333;
+}
+
+/* ========== Responsive Design for Related Posts ========== */
+
+@media (max-width: 768px) {
+  .related-posts {
+    margin: 2rem 0 1.5rem 0;
+    padding: 1rem;
+  }
+
+  .related-posts-title {
+    font-size: 1.1rem;
+  }
+
+  .related-posts-date {
+    min-width: 70px;
+    font-size: 0.8rem;
+  }
+
+  .related-posts-text {
+    font-size: 0.9rem;
+  }
+}
+
+/* ========== Dark Mode Support for Related Posts ========== */
+
+:root[data-theme="dark"] .related-posts {
+  background: linear-gradient(135deg, rgba(85, 104, 211, 0.1) 0%, rgba(107, 61, 161, 0.1) 100%);
+  border-left-color: #7c8ee8;
+  border-top-color: rgba(85, 104, 211, 0.3);
+}
+
+:root[data-theme="dark"] .related-posts-title {
+  color: #7c8ee8;
+}
+
+:root[data-theme="dark"] .related-posts-item {
+  background: #2a2a2a;
+  border-color: rgba(85, 104, 211, 0.2);
+}
+
+:root[data-theme="dark"] .related-posts-item:hover {
+  border-color: #7c8ee8;
+  box-shadow: 0 2px 8px rgba(85, 104, 211, 0.2);
+}
+
+:root[data-theme="dark"] .related-posts-link:hover {
+  color: #7c8ee8;
+}
+
+:root[data-theme="dark"] .related-posts-date {
+  color: #777;
+}
+
+:root[data-theme="dark"] .related-posts-text {
+  color: #ddd;
+}

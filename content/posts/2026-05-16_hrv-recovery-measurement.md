@@ -6,6 +6,13 @@ description: "HRV（心拍変動）で自分のリカバリー状況、判断力
 author: "Executive Marathon"
 categories: ["リカバリー", "脳パフォーマンス", "米国トレンド"]
 tags: ["HRV", "心拍変動", "リカバリー測定", "科学的アプローチ", "判断力", "シリコンバレー"]
+keywords:
+  - HRV
+  - 心拍変動
+  - リカバリー測定
+  - パフォーマンス管理
+  - データドリブン
+  - 科学的アプローチ
 draft: false
 ---
 
@@ -294,3 +301,8 @@ HRV は、そのリカバリーが「実際に起きているか」を「数値�
 あなたも、今週から始めてみませんか？
 
 **「数字が、あなたの判断力をコントロールする。」** それが HRV の力。
+
+**関連記事：**
+- [Cold Plunge（冷水浸浴）でリカバリーと判断力を加速：シリコンバレーの秘密兵器](/posts/cold-plunge-recovery-performance/)
+- [遠赤外線サウナでストレス軽減と脳パフォーマンス：Cold Plunge が怖い人向けのシリコンバレー流リカバリー](/posts/sauna-recovery-wellness/)
+- [経営判断力を支える栄養戦略：エネルギー管理からパフォーマンス最適化へ](/posts/nutrition-performance-leadership/)

@@ -6,6 +6,13 @@ description: "米国で主流のZone 2トレーニング。サブ4からサブ3.
 author: "Executive Marathon"
 categories: ["マラソントレーニング", "パフォーマンス", "科学的アプローチ"]
 tags: ["Zone2トレーニング", "サブ3.5", "低負荷トレーニング", "有酸素能力", "ケガ予防", "米国トレンド"]
+keywords:
+  - Zone2トレーニング
+  - 有酸素能力
+  - マラソントレーニング
+  - パフォーマンス向上
+  - ケガ予防
+  - 持続可能性
 draft: false
 ---
 
@@ -260,3 +267,8 @@ Zone 2 トレーニングは：
 あなたのマラソン、そしてキャリアも、「Zone 2の戦略」で、次のレベルへ進めるかもしれない。
 
 今週から、試してみませんか？
+
+**関連記事：**
+- [初めてのマラソン登録：部門長のための実践ガイド](/posts/marathon-registration-guide/)
+- [Cold Plunge（冷水浸浴）でリカバリーと判断力を加速：シリコンバレーの秘密兵器](/posts/cold-plunge-recovery-performance/)
+- [HRV（心拍変動）でリカバリーと判断力を科学的に測定：シリコンバレーのリーダーはなぜ数字を見るのか](/posts/hrv-recovery-measurement/)

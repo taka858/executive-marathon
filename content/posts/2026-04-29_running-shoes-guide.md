@@ -6,6 +6,13 @@ description: "テック部門長による科学的シューズ選び。データ
 author: "Executive Marathon"
 categories: ["Equipment", "Beginner"]
 tags: ["running-shoes", "cost-optimization", "biomechanics", "decision-making"]
+keywords:
+  - ランニングシューズ
+  - シューズ選び
+  - バイオメカニクス
+  - コスト最適化
+  - 意思決定
+  - ケガ予防
 draft: false
 ---
 
@@ -216,6 +223,11 @@ draft: false
 さらに詳しい商品情報やレビューは、以下のランキングから参考にしてください：
 
 {{< ranking category="running-shoes" >}}
+
+**関連記事：**
+- [マラソン選手のケガは『システム障害』—ビジネスの予防保全思想からの学び](/posts/risk-management-prevention/)
+- [ランニングウォッチ徹底比較：Garmin vs Apple Watch vs Polar](/posts/running-watch-comparison/)
+- [初めてのマラソン登録：部門長のための実践ガイド](/posts/marathon-registration-guide/)
 
 ---
 

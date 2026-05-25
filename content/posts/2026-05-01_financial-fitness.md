@@ -5,6 +5,13 @@ description: "トレーニング費用を戦略的に最適化し、ROIを最大
 author: "Executive Marathon"
 categories: ["財務計画", "マラソントレーニング", "費用最適化"]
 tags: ["予算管理", "マラソン費用", "金銭的フィットネス", "コスト最適化", "投資効率"]
+keywords:
+  - 予算管理
+  - 費用最適化
+  - 金銭的フィットネス
+  - 投資効率
+  - ROI
+  - トレーニング費用
 draft: false
 ---
 
@@ -90,6 +97,11 @@ A：予防セッション（$60～$100/回、2～4回）は、故障後の治療
 3. その削減分を高ROI項目に再配分する
 
 小さな判断の積み重ねが大きな結果を生む。マラソンでも、人生の財務管理でも同じだ。
+
+**関連記事：**
+- [1%の改善の力：マラソンランナーが学ぶ継続的改善の方程式](/posts/innovation-continuous-improvement/)
+- [マラソンランナーに学ぶ、持続可能なキャリア構築法](/posts/work-life-balance-sustainability/)
+- [ランニングウォッチ徹底比較：Garmin vs Apple Watch vs Polar](/posts/running-watch-comparison/)
 
 ## まとめ
 

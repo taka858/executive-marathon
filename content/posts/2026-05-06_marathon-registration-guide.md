@@ -12,6 +12,12 @@ tags:
   - 登録
   - ビギナー
   - 実践ガイド
+keywords:
+  - マラソン登録
+  - ビギナーガイド
+  - トレーニング計画
+  - 装備準備
+  - 時間管理
 draft: false
 ---
 
@@ -219,6 +225,11 @@ A: 無理は禁物。医者の診察を受ける。3週間休んでも、本番�
 5. **登録する** → 心構えを決めて、エントリー
 
 ---
+
+**関連記事：**
+- [ランニングシューズ選びガイド：ビジネス的最適化 × テクノロジー](/posts/running-shoes-guide/)
+- [ランニングウォッチ徹底比較：Garmin vs Apple Watch vs Polar](/posts/running-watch-comparison/)
+- [Zone 2トレーニングで1年でサブ3.5達成：米国流・低負荷・高効率マラソン戦略](/posts/zone2-training-sub35/)
 
 ## まとめ
 

@@ -61,6 +61,49 @@ amazon-book-finance:
   icon: "💰"
   description: "経営者必須の金融知識。リスク管理と投資戦略の基本が学べる。"
 
+# リカバリー・ウェルネス関連（新規）
+amazon-cold-plunge-tub:
+  name: "ポータブルアイスバス・冷却タンク"
+  url: "https://www.amazon.co.jp/s?k=ポータブル+アイスバス&tag=executivemara-22"
+  text: "ポータブルアイスバスをAmazonで見る"
+  icon: "❄️"
+  description: "自宅で Cold Plunge を実現。シリコンバレーのリカバリー標準装備。パフォーマンス向上と疲労回復に。"
+
+amazon-infrared-sauna:
+  name: "ポータブル遠赤外線サウナ"
+  url: "https://www.amazon.co.jp/s?k=遠赤外線サウナ+ポータブル&tag=executivemara-22"
+  text: "遠赤外線サウナをAmazonで見る"
+  icon: "🔥"
+  description: "自宅で本格的なサウナ体験。Cold Plunge の代替リカバリー方法として最高。ストレス軽減と体の回復。"
+
+amazon-magnesium-supplement:
+  name: "マグネシウム サプリメント"
+  url: "https://www.amazon.co.jp/s?k=マグネシウム+サプリメント&tag=executivemara-22"
+  text: "マグネシウムをAmazonで見る"
+  icon: "💊"
+  description: "睡眠の質向上とリカバリー促進。疲労蓄積の軽減に。トレーニング後の回復に必須。"
+
+amazon-omega3-supplement:
+  name: "Omega-3 サプリメント（フィッシュオイル）"
+  url: "https://www.amazon.co.jp/s?k=Omega-3+フィッシュオイル&tag=executivemara-22"
+  text: "Omega-3をAmazonで見る"
+  icon: "🐟"
+  description: "心血管健康とリカバリーを支援。長時間の脳作業とトレーニング後の回復に最適。"
+
+amazon-running-belt:
+  name: "ランニングウエストポーチ・ベルト"
+  url: "https://www.amazon.co.jp/s?k=ランニング+ウエストポーチ&tag=executivemara-22"
+  text: "ランニングベルトをAmazonで見る"
+  icon: "👜"
+  description: "スマホ・鍵・補給食を安全に携帯。快適な長距離ランに必須アイテム。"
+
+amazon-sauna-aromatherapy:
+  name: "サウナ用アロマオイル・エッセンシャルオイル"
+  url: "https://www.amazon.co.jp/s?k=サウナ+アロマオイル&tag=executivemara-22"
+  text: "サウナ用アロマオイルをAmazonで見る"
+  icon: "🌿"
+  description: "遠赤外線サウナの効果を高める。リラックス効果と呼吸器健康をサポート。リカバリー体験の質向上。"
+
 # テンプレート（必要に応じてコピーして使用）
 # example-id:
 #   name: "商品名"

@@ -5,6 +5,13 @@ description: "毎日1%の改善を積み重ねる仕組みづくり。マラソ�
 author: "Executive Marathon"
 categories: ["改善戦略", "パフォーマンス管理", "継続的改善"]
 tags: ["改善マインド", "継続的改善", "1%の改善", "PDCA", "イノベーション"]
+keywords:
+  - 継続的改善
+  - 1%改善
+  - PDCA
+  - イノベーション
+  - パフォーマンス向上
+  - 意思決定
 draft: false
 ---
 
@@ -106,6 +113,11 @@ A：ない。むしろマラソンは最高のビジネス教材だ。タイム�
 - ランニング後のストレッチを1種類追加する
 
 それを1週間続け、結果を記録する。それが全てだ。
+
+**関連記事：**
+- [マラソンで成功する金銭的フィットネス戦略](/posts/financial-fitness/)
+- [マラソンランナーに学ぶ、持続可能なキャリア構築法](/posts/work-life-balance-sustainability/)
+- [エンジニアリングリーダーとして、マラソンで学んだこと](/posts/mental-training-leadership/)
 
 ## まとめ
 
