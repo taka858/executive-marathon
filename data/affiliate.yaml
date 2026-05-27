@@ -104,6 +104,69 @@ amazon-sauna-aromatherapy:
   icon: "🌿"
   description: "遠赤外線サウナの効果を高める。リラックス効果と呼吸器健康をサポート。リカバリー体験の質向上。"
 
+amazon-running-light:
+  name: "ランニング用 LED ライト"
+  url: "https://www.amazon.co.jp/s?k=ランニング+LED+ライト&tag=executivemara-22"
+  text: "ランニング用ライトをAmazonで見る"
+  icon: "💡"
+  description: "朝5時の暗いランニングに必須。胸や腕に装着して安全性と視認性を確保。"
+
+amazon-light-therapy-lamp:
+  name: "光療法ライト（10,000ルクス）"
+  url: "https://www.amazon.co.jp/s?k=光療法+ライト+10000ルクス&tag=executivemara-22"
+  text: "光療法ライトをAmazonで見る"
+  icon: "☀️"
+  description: "時差ボケ解消の最強ツール。朝30分浴びることでメラトニンをリセット。出張者必携。"
+
+amazon-melatonin-supplement:
+  name: "メラトニン サプリメント（3-5mg）"
+  url: "https://www.amazon.co.jp/s?k=メラトニン+サプリメント&tag=executivemara-22"
+  text: "メラトニンをAmazonで見る"
+  icon: "💊"
+  description: "体内時計の調整に。時差ボケ時に現地時間の夜21時に摂取。3〜4日で完全リセット。"
+
+amazon-protein-travel-pack:
+  name: "ポータブルプロテイン・トラベルパック"
+  url: "https://www.amazon.co.jp/s?k=プロテイン+トラベル+携帯&tag=executivemara-22"
+  text: "トラベルプロテインをAmazonで見る"
+  icon: "🍯"
+  description: "出張中の栄養確保に最適。軽量で持ち運び易く、どこでも栄養補給が可能。"
+
+amazon-sleep-mask:
+  name: "スリープマスク・アイマスク"
+  url: "https://www.amazon.co.jp/s?k=睡眠+アイマスク+遮光&tag=executivemara-22"
+  text: "スリープマスクをAmazonで見る"
+  icon: "😴"
+  description: "完全遮光でメラトニン分泌を促進。出張時の睡眠質向上に必須。外部刺激を完全カット。"
+
+amazon-earplugs:
+  name: "高性能イヤープラグ・耳栓"
+  url: "https://www.amazon.co.jp/s?k=耳栓+高性能+ノイズキャンセル&tag=executivemara-22"
+  text: "イヤープラグをAmazonで見る"
+  icon: "🔇"
+  description: "ホテルのノイズから睡眠を守る。リカバリー睡眠の質向上に。出張の睡眠環境改善に。"
+
+amazon-yoga-mat:
+  name: "トラベルヨガマット"
+  url: "https://www.amazon.co.jp/s?k=ヨガマット+軽量&tag=executivemara-22"
+  text: "ヨガマットをAmazonで見る"
+  icon: "🧘"
+  description: "回復時間の快適化に。ストレッチやリラックスワークに。軽量で携帯可能。"
+
+amazon-foam-roller:
+  name: "フォームローラー・筋膜リリースツール"
+  url: "https://www.amazon.co.jp/s?k=フォームローラー&tag=executivemara-22"
+  text: "フォームローラーをAmazonで見る"
+  icon: "🔄"
+  description: "筋膜リリースで血流促進。ハムストリングやふくらはぎの張りをほぐす。リカバリー効果抜群。"
+
+amazon-hrv-monitor:
+  name: "HRV トラッキングウォッチ・心拍変動計測"
+  url: "https://www.amazon.co.jp/s?k=HRV+ウォッチ+心拍変動&tag=executivemara-22"
+  text: "HRVウォッチをAmazonで見る"
+  icon: "❤️"
+  description: "回復状態を数値化。朝の測定で今日の運動適応を判断。科学的なリカバリーマネジメント。"
+
 # テンプレート（必要に応じてコピーして使用）
 # example-id:
 #   name: "商品名"
