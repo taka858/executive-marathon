@@ -167,6 +167,27 @@ amazon-hrv-monitor:
   icon: "❤️"
   description: "回復状態を数値化。朝の測定で今日の運動適応を判断。科学的なリカバリーマネジメント。"
 
+amazon-oxygen-supplement:
+  name: "酸素サプリメント・高地トレーニング製品"
+  url: "https://www.amazon.co.jp/s?k=酸素+サプリメント&tag=executivemara-22"
+  text: "酸素サプリメントをAmazonで見る"
+  icon: "💨"
+  description: "気圧低下時の酸素供給補助。嵐や高地での判断力維持に。脳への酸素供給を最適化。"
+
+amazon-travel-pillow:
+  name: "トラベルピロー・首枕"
+  url: "https://www.amazon.co.jp/s?k=トラベル+ピロー+首枕&tag=executivemara-22"
+  text: "トラベルピローをAmazonで見る"
+  icon: "🛌"
+  description: "ロードトリップ中の仮眠に必須。首と脳の疲労回復をサポート。コンパクトで携帯可能。"
+
+amazon-energy-bar:
+  name: "エネルギーバー・ナッツバー"
+  url: "https://www.amazon.co.jp/s?k=エネルギーバー&tag=executivemara-22"
+  text: "エネルギーバーをAmazonで見る"
+  icon: "🍫"
+  description: "長時間運転中の栄養補給。タンパク質ベースで血糖値を安定化。判断力維持に。"
+
 # テンプレート（必要に応じてコピーして使用）
 # example-id:
 #   name: "商品名"
