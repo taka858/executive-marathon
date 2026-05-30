@@ -1,18 +1,20 @@
 ---
-title: "ランニングシューズ選びガイド：ビジネス的最適化 × テクノロジー"
+title: "ランニングシューズ選びガイド：科学的データ分析とコスト最適化 - ビジネスロジックで選ぶ"
 date: 2026-04-29
 slug: "running-shoes-guide"
-description: "テック部門長による科学的シューズ選び。データに基づいた長期投資戦略とコスト最適化。"
+description: "テック部門長が実践する科学的シューズ選び。バイオメカニクス分析で最適なシューズを選定。ケガ予防と長期的なコスト最適化を実現。データに基づいた意思決定フレームワークを徹底解説。"
 author: "Executive Marathon"
-categories: ["Equipment", "Beginner"]
-tags: ["running-shoes", "cost-optimization", "biomechanics", "decision-making"]
+categories: ["Equipment", "Beginner", "Leadership"]
+tags: ["running-shoes", "cost-optimization", "biomechanics", "decision-making", "performance"]
 keywords:
   - ランニングシューズ
   - シューズ選び
   - バイオメカニクス
-  - コスト最適化
-  - 意思決定
+  - ランニングシューズ比較
   - ケガ予防
+  - パフォーマンス向上
+  - クッション性
+  - 初心者向け
 draft: false
 ---
 
