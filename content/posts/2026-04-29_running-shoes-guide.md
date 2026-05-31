@@ -52,6 +52,8 @@ draft: false
 | **動的分析** | 走行中の足の着地パターン、プロネーション | 着地時の過度な回内・回外 |
 | **生体力学的分析** | 体重分布、膝や股関節への負荷 | ランニング効率、怪我リスク |
 
+この分析データは、後の[ケガ予防戦略](/posts/risk-management-prevention/)にも直結する重要な情報です。
+
 ### 1.2 「表面的な分析」は不十分
 
 多くのランナーは静的分析だけで判断する。しかし、これはビジネス用語で言う「表面的な顧客ニーズ調査」に相当する不十分な分析だ。
@@ -80,6 +82,8 @@ draft: false
 {{< affiliate id="amazon-shoes-001" text="高クッション性シューズ - Amazon で見る" >}}
 
 {{< affiliate id="amazon-shoes-002" text="軽量・反発性重視シューズ - Amazon で見る" >}}
+
+{{< affiliate id="amazon-gps-watch" text="ランニングウォッチで走行データを分析" >}}
 
 ### 2.2 重視度の決定がビジネス意思決定
 
@@ -226,10 +230,14 @@ draft: false
 
 {{< ranking category="running-shoes" >}}
 
-**関連記事：**
-- [マラソン選手のケガは『システム障害』—ビジネスの予防保全思想からの学び](/posts/risk-management-prevention/)
-- [ランニングウォッチ徹底比較：Garmin vs Apple Watch vs Polar](/posts/running-watch-comparison/)
-- [初めてのマラソン登録：部門長のための実践ガイド](/posts/marathon-registration-guide/)
+## 関連記事
+
+シューズ選びを成功させるために、以下の記事も合わせてご覧ください：
+
+- [マラソン選手のケガは『システム障害』—ビジネスの予防保全思想からの学び](/posts/risk-management-prevention/) - 適切なシューズがケガ予防に果たす役割
+- [ランニングウォッチ徹底比較：Garmin vs Apple Watch vs Polar](/posts/running-watch-comparison/) - シューズ選択を支援するデータ分析ツール
+- [初めてのマラソン登録：部門長のための実践ガイド](/posts/marathon-registration-guide/) - マラソン挑戦の全体計画
+- [Zone2トレーニングでサブ3.5達成：心拍ゾーン戦略](/posts/zone2-training-sub35/) - シューズ選び後の練習戦略
 
 ---
 
