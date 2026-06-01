@@ -28,23 +28,66 @@
         <div class="ranking-content">
           <div class="ranking-item-title">
             {{- if $item.url -}}
-              <a href="{{ $item.url }}" target="_blank" rel="noopener noreferrer">{{ $item.name }}</a>
+              <a href="{{ $item.url }}" target="_blank" rel="noopener noreferrer" class="ranking-link">{{ $item.name }}</a>
             {{- else -}}
               <span>{{ $item.name }}</span>
             {{- end -}}
           </div>
+
           {{- if $item.description -}}
             <p class="ranking-description">{{ $item.description }}</p>
           {{- end -}}
-          {{- if $item.price -}}
-            <span class="ranking-price">{{ $item.price }}</span>
+
+          {{- if $item.who_for -}}
+            <div class="ranking-who-for">
+              <strong>こんな人向け:</strong> {{ $item.who_for }}
+            </div>
           {{- end -}}
+
+          {{- if $item.implementation_guide -}}
+            <div class="ranking-guide">
+              <strong>実装ガイド:</strong>
+              <ol class="guide-list">
+                {{- $steps := split $item.implementation_guide " | " -}}
+                {{- range $steps -}}
+                  <li>{{ . }}</li>
+                {{- end -}}
+              </ol>
+            </div>
+          {{- end -}}
+
+          <div class="ranking-details">
+            {{- if $item.price -}}
+              <span class="ranking-price">💰 {{ $item.price }}</span>
+            {{- end -}}
+            {{- if $item.lifespan -}}
+              <span class="ranking-lifespan">⏱ 使用期間: {{ $item.lifespan }}</span>
+            {{- end -}}
+            {{- if $item.review_count -}}
+              <span class="ranking-review-count">👥 {{ $item.review_count }}件のレビュー</span>
+            {{- end -}}
+          </div>
+
+          {{- if $item.review_summary -}}
+            <div class="ranking-review">
+              <strong>レビュー概要:</strong> {{ $item.review_summary }}
+            </div>
+          {{- end -}}
+
           {{- if $item.rating -}}
             <div class="ranking-rating">
               {{- range seq (int $item.rating) -}}
                 ⭐
               {{- end -}}
               <span class="rating-text">{{ $item.rating }}/5.0</span>
+            </div>
+          {{- end -}}
+
+          {{- if $item.url -}}
+            <div class="ranking-cta">
+              <a href="{{ $item.url }}" target="_blank" rel="noopener noreferrer" class="cta-button">
+                🛒 Amazonで詳細・レビューを見る →
+              </a>
             </div>
           {{- end -}}
         </div>
