@@ -354,4 +354,4 @@ Cold Plunge よりも：
 - [経営判断力を支える栄養戦略：エネルギー管理からパフォーマンス最適化へ](/posts/nutrition-performance-leadership/)
 ## 関連記事
 
-- [エグゼクティブマラソニスト向けおすすめ商品ランキング](/rankings/)
+- [エグゼクティブマラソニスト向けおすすめ商品ランキング](/product-recommendations/)

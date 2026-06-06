@@ -268,4 +268,4 @@ Memorial Day週末。朝日を浴びながら走る喜びに浸っていた。
 - [遠赤外線サウナでストレス軽減と脳パフォーマンス](/posts/sauna-recovery-wellness/) - 代替リカバリー法
 - [ロードトリップと長時間運転](/posts/road-trip-endurance/) - 脳疲労とリカバリー
 - [優秀な部下が辞める前に：オーバートレーニング症候群](/posts/overtraining-team-burnout/) - 組織のペース管理
-- [エグゼクティブマラソニスト向けおすすめ商品ランキング](/rankings/)
+- [エグゼクティブマラソニスト向けおすすめ商品ランキング](/product-recommendations/)

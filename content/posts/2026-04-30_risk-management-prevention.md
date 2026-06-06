@@ -185,7 +185,7 @@ draft: false
 - [1on1面談が機能しない理由：部下のモチベーション源を見つけるマラソンランナー的アプローチ](/posts/1on1-motivation-leadership/) - 早期警告信号の検知
 - [経営判断力を支える栄養戦略](/posts/nutrition-performance-leadership/) - 栄養による予防
 - [HRV（心拍変動）でリカバリーを測定する](/posts/hrv-recovery-measurement/) - 科学的なモニタリング
-- [エグゼクティブマラソニスト向けおすすめ商品ランキング](/rankings/)
+- [エグゼクティブマラソニスト向けおすすめ商品ランキング](/product-recommendations/)
 
 ## まとめ
 
