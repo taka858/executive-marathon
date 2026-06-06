@@ -220,4 +220,4 @@ Radical Candor を本気で実装するなら：
 - [優秀な部下が辞める前に：オーバートレーニング症候群](/posts/overtraining-team-burnout/) - 部下の疲弊サイン
 - [決定疲れを制御する](/posts/decision-fatigue-leadership/) - 判断力の維持とマネージャーの責任
 - [メンタルトレーニングとリーダーシップ](/posts/mental-training-leadership/) - 困難に強い組織文化の構築
-- [エグゼクティブマラソニスト向けおすすめ商品ランキング](/posts/product-recommendations/)
+- [エグゼクティブマラソニスト向けおすすめ商品ランキング](/rankings/)

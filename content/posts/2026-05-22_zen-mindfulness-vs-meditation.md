@@ -212,4 +212,4 @@ Apple の CEO ティム・クックは毎朝、4時半に起床して瞑想す�
 - [朝運動と脳化学](/posts/morning-exercise-brain-performance/) - 朝のルーティンの重要性
 - [Radical Candor - 優しさと厳しさで部下を成長させる](/posts/radical-candor-leadership-feedback/) - 本質的なコミュニケーション
 - [1on1面談でモチベーションを引き出す](/posts/1on1-motivation-leadership/) - 本当の「聞く力」の実装
-- [エグゼクティブマラソニスト向けおすすめ商品ランキング](/posts/product-recommendations/)
+- [エグゼクティブマラソニスト向けおすすめ商品ランキング](/rankings/)

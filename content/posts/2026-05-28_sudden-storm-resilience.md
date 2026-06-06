@@ -271,4 +271,4 @@ draft: false
 - [予定変更への対応力](/posts/adaptability-unexpected-changes/) - 不完全さとの向き合い方
 - [決定疲れを制御する](/posts/decision-fatigue-leadership/) - 判断力維持の工夫
 - [禅のマインドフルネス](/posts/zen-mindfulness-vs-meditation/) - 心をクリアに保つ
-- [エグゼクティブマラソニスト向けおすすめ商品ランキング](/posts/product-recommendations/)
+- [エグゼクティブマラソニスト向けおすすめ商品ランキング](/rankings/)

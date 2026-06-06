@@ -320,4 +320,4 @@ Day 5以降：通常ペース復帰、ただし週単位でボリューム増加
 - [朝の運動で判断力30%UP](/posts/morning-exercise-brain-performance/) - 朝日とセロトニン
 - [経営判断力を支える栄養戦略](/posts/nutrition-performance-leadership/) - 栄養タイミング
 - [優秀な部下が辞める前に：オーバートレーニング症候群](/posts/overtraining-team-burnout/) - 組織のリカバリー管理
-- [エグゼクティブマラソニスト向けおすすめ商品ランキング](/posts/product-recommendations/)
+- [エグゼクティブマラソニスト向けおすすめ商品ランキング](/rankings/)

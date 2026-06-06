@@ -276,4 +276,4 @@ Zone 2 トレーニングは：
 - [HRV（心拍変動）でリカバリーと判断力を科学的に測定：シリコンバレーのリーダーはなぜ数字を見るのか](/posts/hrv-recovery-measurement/)
 ## 関連記事
 
-- [エグゼクティブマラソニスト向けおすすめ商品ランキング](/posts/product-recommendations/)
+- [エグゼクティブマラソニスト向けおすすめ商品ランキング](/rankings/)

@@ -256,4 +256,4 @@ draft: false
 - [Cold Plunge でリカバリー](/posts/cold-plunge-recovery-performance/) - リカバリーツール
 - [朝運動と脳化学](/posts/morning-exercise-brain-performance/) - 過度な運動の危険性
 - [禅のマインドフルネス](/posts/zen-mindfulness-vs-meditation/) - 体の声を聞く瞑想
-- [エグゼクティブマラソニスト向けおすすめ商品ランキング](/posts/product-recommendations/)
+- [エグゼクティブマラソニスト向けおすすめ商品ランキング](/rankings/)

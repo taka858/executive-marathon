@@ -292,4 +292,4 @@ draft: false
 - [決定疲れを制御する](/posts/decision-fatigue-leadership/) - 判断力維持のマネジメント
 - [ハムストリングのはりと雨の日のランニング](/posts/hamstring-tension-rainy-day-running/) - 体の信号を聞く
 - [禅のマインドフルネス](/posts/zen-mindfulness-vs-meditation/) - 心をリセットする力
-- [エグゼクティブマラソニスト向けおすすめ商品ランキング](/posts/product-recommendations/)
+- [エグゼクティブマラソニスト向けおすすめ商品ランキング](/rankings/)

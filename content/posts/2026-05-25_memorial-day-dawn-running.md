@@ -226,4 +226,4 @@ Memorial Day は、単なる米国の祝日ではない。
 - [朝運動と脳化学](/posts/morning-exercise-brain-performance/) - セロトニン効果
 - [16:8 Intermittent Fasting](/posts/intermittent-fasting-brain-performance/) - 空腹時トレーニング
 - [禅のマインドフルネス](/posts/zen-mindfulness-vs-meditation/) - 朝の無心状態
-- [エグゼクティブマラソニスト向けおすすめ商品ランキング](/posts/product-recommendations/)
+- [エグゼクティブマラソニスト向けおすすめ商品ランキング](/rankings/)

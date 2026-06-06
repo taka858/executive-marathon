@@ -215,4 +215,4 @@ BDNFは、脳細胞の成長、学習、記憶を促進する。つまり、BDNF
 - [禅のマインドフルネス](/posts/zen-mindfulness-vs-meditation/) - 精神的クリアネスとの相乗効果
 - [決定疲れを制御する](/posts/decision-fatigue-leadership/) - 判断力維持とリカバリー
 - [Cold Plunge でリカバリー](/posts/cold-plunge-recovery-performance/) - 運動後のリカバリー戦略
-- [エグゼクティブマラソニスト向けおすすめ商品ランキング](/posts/product-recommendations/)
+- [エグゼクティブマラソニスト向けおすすめ商品ランキング](/rankings/)

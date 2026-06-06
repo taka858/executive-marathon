@@ -310,4 +310,4 @@ HRV は、そのリカバリーが「実際に起きているか」を「数値�
 - [経営判断力を支える栄養戦略：エネルギー管理からパフォーマンス最適化へ](/posts/nutrition-performance-leadership/)
 ## 関連記事
 
-- [エグゼクティブマラソニスト向けおすすめ商品ランキング](/posts/product-recommendations/)
+- [エグゼクティブマラソニスト向けおすすめ商品ランキング](/rankings/)

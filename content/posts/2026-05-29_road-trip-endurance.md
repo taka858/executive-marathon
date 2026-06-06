@@ -225,4 +225,4 @@ draft: false
 - [ハムストリングのはりと雨の日のランニング](/posts/hamstring-tension-rainy-day-running/) - 体の信号を聞く
 - [決定疲れを制御する](/posts/decision-fatigue-leadership/) - 判断力維持の工夫
 - [Zone 2トレーニングでサブ3.5達成](/posts/zone2-training-sub35/) - ペーシング戦略の応用
-- [エグゼクティブマラソニスト向けおすすめ商品ランキング](/posts/product-recommendations/)
+- [エグゼクティブマラソニスト向けおすすめ商品ランキング](/rankings/)
