@@ -1,4 +1,4 @@
----
+﻿---
 title: "出張と時差ボケ - 判断力が50%低下する『移動の罠』"
 date: 2026-05-27T00:00:00Z
 slug: "jet-lag-business-trip-performance"
@@ -292,3 +292,4 @@ draft: false
 - [決定疲れを制御する](/posts/decision-fatigue-leadership/) - 判断力維持のマネジメント
 - [ハムストリングのはりと雨の日のランニング](/posts/hamstring-tension-rainy-day-running/) - 体の信号を聞く
 - [禅のマインドフルネス](/posts/zen-mindfulness-vs-meditation/) - 心をリセットする力
+- [エグゼクティブマラソニスト向けおすすめ商品ランキング](/posts/product-recommendations/)

@@ -1,4 +1,4 @@
----
+﻿---
 title: "優秀な部下が辞める兆候：オーバートレーニング症候群でバーンアウト防止"
 date: 2026-05-17T00:00:00Z
 slug: "overtraining-team-burnout"
@@ -348,3 +348,6 @@ A：軽度（疲労度 6-7）なら 2-3週間。中程度（疲労度 7-8）な�
 - [マラソンランナーに学ぶ、持続可能なキャリア構築法](/posts/work-life-balance-sustainability/)
 - [1on1面談が機能しない理由：部下のモチベーション源を見つけるマラソンランナー的アプローチ](/posts/1on1-motivation-leadership/)
 - [リモートワーク時代の判断力維持：分散チームで脳パフォーマンスを最大化する](/posts/remote-team-brain-performance/)
+## 関連記事
+
+- [エグゼクティブマラソニスト向けおすすめ商品ランキング](/posts/product-recommendations/)

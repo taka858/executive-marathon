@@ -1,4 +1,4 @@
----
+﻿---
 title: "リモートワーク時代の判断力維持：分散チームで脳パフォーマンスを最大化する"
 date: 2026-05-12T00:00:00Z
 slug: "remote-team-brain-performance"
@@ -203,3 +203,6 @@ A：3つ。1）朝のルーチンを設定し維持する。2）ミーティン�
 - [決定疲れを制御する経営リーダー：マラソンペーシングから学ぶ判断力の維持](/posts/decision-fatigue-leadership/)
 - [優秀な部下が辞める前に：オーバートレーニング症候群と組織のペース管理](/posts/overtraining-team-burnout/)
 - [1on1面談が機能しない理由：部下のモチベーション源を見つけるマラソンランナー的アプローチ](/posts/1on1-motivation-leadership/)
+## 関連記事
+
+- [エグゼクティブマラソニスト向けおすすめ商品ランキング](/posts/product-recommendations/)

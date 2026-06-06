@@ -1,4 +1,4 @@
----
+﻿---
 title: "朝の運動で判断力30%UP - セロトニン・コルチゾルの脳科学"
 date: 2026-05-11T00:00:00Z
 slug: "morning-exercise-brain-performance"
@@ -251,3 +251,6 @@ A：段階的に低下する。セロトニン分泌は、運動をやめると3
 - [エンジニアリングリーダーとして、マラソンで学んだこと](/posts/mental-training-leadership/)
 - [経営判断力を支える栄養戦略：エネルギー管理からパフォーマンス最適化へ](/posts/nutrition-performance-leadership/)
 - [遠赤外線サウナでストレス軽減と脳パフォーマンス：Cold Plunge が怖い人向けのシリコンバレー流リカバリー](/posts/sauna-recovery-wellness/)
+## 関連記事
+
+- [エグゼクティブマラソニスト向けおすすめ商品ランキング](/posts/product-recommendations/)

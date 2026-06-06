@@ -1,4 +1,4 @@
----
+﻿---
 title: "HRV（心拍変動）で判断力を毎朝数値化 - シリコンバレー式リカバリー管理"
 date: 2026-05-16T00:00:00Z
 slug: "hrv-recovery-measurement"
@@ -308,3 +308,6 @@ HRV は、そのリカバリーが「実際に起きているか」を「数値�
 - [Cold Plunge（冷水浸浴）でリカバリーと判断力を加速：シリコンバレーの秘密兵器](/posts/cold-plunge-recovery-performance/)
 - [遠赤外線サウナでストレス軽減と脳パフォーマンス：Cold Plunge が怖い人向けのシリコンバレー流リカバリー](/posts/sauna-recovery-wellness/)
 - [経営判断力を支える栄養戦略：エネルギー管理からパフォーマンス最適化へ](/posts/nutrition-performance-leadership/)
+## 関連記事
+
+- [エグゼクティブマラソニスト向けおすすめ商品ランキング](/posts/product-recommendations/)

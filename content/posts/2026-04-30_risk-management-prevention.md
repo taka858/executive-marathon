@@ -1,4 +1,4 @@
----
+﻿---
 title: "マラソン選手のケガは『システム障害』—ビジネスの予防保全思想からの学び"
 date: 2026-04-30
 description: "130人以上のチーム経営経験から。ビジネスのリスク管理手法をランナーのケガ予防に応用する方法。"
@@ -185,6 +185,7 @@ draft: false
 - [1on1面談が機能しない理由：部下のモチベーション源を見つけるマラソンランナー的アプローチ](/posts/1on1-motivation-leadership/) - 早期警告信号の検知
 - [経営判断力を支える栄養戦略](/posts/nutrition-performance-leadership/) - 栄養による予防
 - [HRV（心拍変動）でリカバリーを測定する](/posts/hrv-recovery-measurement/) - 科学的なモニタリング
+- [エグゼクティブマラソニスト向けおすすめ商品ランキング](/posts/product-recommendations/)
 
 ## まとめ
 

@@ -1,4 +1,4 @@
----
+﻿---
 title: "1on1面談が機能しない理由：部下のモチベーション源を見つけるマラソンランナー的アプローチ"
 date: 2026-05-19T00:00:00Z
 slug: "1on1-motivation-leadership"
@@ -382,3 +382,6 @@ A：プロジェクト配置、学習機会提供、技術的チャレンジの�
 - [なぜ、部門長はマラソンを走るのか](/posts/why-executives-should-run-triathlon/)
 - [エンジニアリングリーダーとして、マラソンで学んだこと](/posts/mental-training-leadership/)
 - [優秀な部下が辞める前に：オーバートレーニング症候群と組織のペース管理](/posts/overtraining-team-burnout/)
+## 関連記事
+
+- [エグゼクティブマラソニスト向けおすすめ商品ランキング](/posts/product-recommendations/)

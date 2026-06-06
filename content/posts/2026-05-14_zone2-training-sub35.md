@@ -1,4 +1,4 @@
----
+﻿---
 title: "Zone 2トレーニングで1年でサブ3.5達成：米国流・低負荷・高効率マラソン戦略"
 date: 2026-05-14T00:00:00Z
 slug: "zone2-training-sub35"
@@ -274,3 +274,6 @@ Zone 2 トレーニングは：
 - [初めてのマラソン登録：部門長のための実践ガイド](/posts/marathon-registration-guide/)
 - [Cold Plunge（冷水浸浴）でリカバリーと判断力を加速：シリコンバレーの秘密兵器](/posts/cold-plunge-recovery-performance/)
 - [HRV（心拍変動）でリカバリーと判断力を科学的に測定：シリコンバレーのリーダーはなぜ数字を見るのか](/posts/hrv-recovery-measurement/)
+## 関連記事
+
+- [エグゼクティブマラソニスト向けおすすめ商品ランキング](/posts/product-recommendations/)

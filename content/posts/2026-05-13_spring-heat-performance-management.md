@@ -1,4 +1,4 @@
----
+﻿---
 title: "春の気温上昇とパフォーマンス低下：季節変化に対応する脳と体の管理"
 date: 2026-05-13T00:00:00Z
 slug: "spring-heat-performance-management"
@@ -200,3 +200,6 @@ A：異なる。春は気温上昇の過渡期。体がまだ夏に適応して�
 - [経営判断力を支える栄養戦略：エネルギー管理からパフォーマンス最適化へ](/posts/nutrition-performance-leadership/)
 - [朝のボランティアランで体感した脳化学：セロトニン、コルチゾル、判断力の関係](/posts/morning-exercise-brain-performance/)
 - [HRV（心拍変動）でリカバリーと判断力を科学的に測定：シリコンバレーのリーダーはなぜ数字を見るのか](/posts/hrv-recovery-measurement/)
+## 関連記事
+
+- [エグゼクティブマラソニスト向けおすすめ商品ランキング](/posts/product-recommendations/)

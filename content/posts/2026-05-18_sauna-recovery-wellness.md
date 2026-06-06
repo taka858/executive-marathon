@@ -1,4 +1,4 @@
----
+﻿---
 title: "遠赤外線サウナでストレス軽減と脳パフォーマンス向上 - Cold Plunge の心理的代替策"
 date: 2026-05-18T00:00:00Z
 slug: "sauna-recovery-wellness"
@@ -352,3 +352,6 @@ Cold Plunge よりも：
 - [Cold Plunge（冷水浸浴）でリカバリーと判断力を加速：シリコンバレーの秘密兵器](/posts/cold-plunge-recovery-performance/)
 - [HRV（心拍変動）でリカバリーと判断力を科学的に測定：シリコンバレーのリーダーはなぜ数字を見るのか](/posts/hrv-recovery-measurement/)
 - [経営判断力を支える栄養戦略：エネルギー管理からパフォーマンス最適化へ](/posts/nutrition-performance-leadership/)
+## 関連記事
+
+- [エグゼクティブマラソニスト向けおすすめ商品ランキング](/posts/product-recommendations/)

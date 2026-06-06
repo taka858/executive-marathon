@@ -1,4 +1,4 @@
----
+﻿---
 title: "予定変更への対応力 - 寝坊から学ぶ、経営判断もマラソンも同じ"
 date: 2026-05-24T00:00:00Z
 slug: "adaptability-unexpected-changes"
@@ -250,3 +250,4 @@ Memorial Day は、米国の祝日の中でも、最も厳粛な日の一つ。�
 - [決定疲れを制御する](/posts/decision-fatigue-leadership/) - 不完全な情報での判断
 - [メンタルトレーニングとリーダーシップ](/posts/mental-training-leadership/) - 困難への心構え
 - [禅のマインドフルネス](/posts/zen-mindfulness-vs-meditation/) - 予期しない事態への無心の対応
+- [エグゼクティブマラソニスト向けおすすめ商品ランキング](/posts/product-recommendations/)

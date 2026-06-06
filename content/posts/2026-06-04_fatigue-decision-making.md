@@ -1,4 +1,4 @@
----
+﻿---
 title: "疲労と判断力の科学：月末月初の重要判断を失敗させない戦略"
 slug: "fatigue-decision-making-strategy"
 date: 2026-06-04T00:00:00Z
@@ -418,3 +418,6 @@ Sabastian Saweが40km地点で加速できたのは：
 ---
 
 **疲労は、奪い去ることができるコントローラーです。それを握るのは、あなた自身です。**
+## 関連記事
+
+- [エグゼクティブマラソニスト向けおすすめ商品ランキング](/posts/product-recommendations/)

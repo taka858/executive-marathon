@@ -1,4 +1,4 @@
----
+﻿---
 title: "膝裏の痛み5日間が教えてくれたこと - 45km走後のオーバートレーニング警告信号"
 date: 2026-05-30T00:00:00Z
 slug: "knee-pain-recovery-warning"
@@ -268,3 +268,4 @@ Memorial Day週末。朝日を浴びながら走る喜びに浸っていた。
 - [遠赤外線サウナでストレス軽減と脳パフォーマンス](/posts/sauna-recovery-wellness/) - 代替リカバリー法
 - [ロードトリップと長時間運転](/posts/road-trip-endurance/) - 脳疲労とリカバリー
 - [優秀な部下が辞める前に：オーバートレーニング症候群](/posts/overtraining-team-burnout/) - 組織のペース管理
+- [エグゼクティブマラソニスト向けおすすめ商品ランキング](/posts/product-recommendations/)

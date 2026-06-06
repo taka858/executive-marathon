@@ -1,4 +1,4 @@
----
+﻿---
 title: "経営判断力を支える栄養戦略 - 朝食で午後の判断力30%アップ"
 date: 2026-05-10
 slug: "nutrition-performance-leadership"
@@ -219,3 +219,6 @@ A：限定的。睡眠不足は、いかなる栄養戦略もカバーできな�
 - [決定疲れを制御する経営リーダー：マラソンペーシングから学ぶ判断力の維持](/posts/decision-fatigue-leadership/)
 - [朝のボランティアランで体感した脳化学：セロトニン、コルチゾル、判断力の関係](/posts/morning-exercise-brain-performance/)
 - [HRV（心拍変動）でリカバリーと判断力を科学的に測定：シリコンバレーのリーダーはなぜ数字を見るのか](/posts/hrv-recovery-measurement/)
+## 関連記事
+
+- [エグゼクティブマラソニスト向けおすすめ商品ランキング](/posts/product-recommendations/)
