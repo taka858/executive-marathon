@@ -9,9 +9,9 @@ googleAnalytics = "G-2ES90HSWL0"
 
 # Output Formats
 [outputs]
-  home = ["HTML", "JSON"]
+  home = ["HTML", "JSON", "RSS"]
   page = ["HTML"]
-  section = ["HTML"]
+  section = ["HTML", "RSS"]
   taxonomyTerm = ["HTML"]
   taxonomy = ["HTML"]
 
