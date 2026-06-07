@@ -4,6 +4,8 @@ title = "Executive Marathon - ビジネスパーソンのための健康とキ�
 theme = "LoveIt"
 enableEmoji = true
 enableInlineShortcodes = true
+# Google Analytics 4 (GA4) - Measurement ID
+googleAnalytics = "G-2ES90HSWL0"
 
 # Output Formats
 [outputs]
