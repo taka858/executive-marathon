@@ -1,8 +1,8 @@
 ---
 title: "データドリブンなパフォーマンス管理：HRV・心拍数・睡眠から見える経営判断力"
 slug: "data-driven-performance-management"
-date: 2026-06-09T00:00:00Z
-lastmod: 2026-06-09T00:00:00Z
+date: 2026-06-08T00:00:00Z
+lastmod: 2026-06-08T00:00:00Z
 author: "Executive Marathon"
 description: "マラソンランナーが毎日計測するデータは、実は経営判断力の指標そのもの。HRV・心拍数・睡眠データから自分の判断力を数値化し、最適なパフォーマンスを引き出す方法。"
 categories:
