@@ -178,6 +178,65 @@ triathlon-gear:
       rating: 4.7
       url: "https://www.amazon.co.jp/s?k=エアロヘルメット+ロードバイク"
 
+running-gear:
+  title: "雨対策ランニング用品 ランキングTOP5"
+  subtitle: "梅雨時期・雨の日ランニングを快適にする必須アイテム"
+  items:
+    - name: "ASICS 防水ランニングジャケット（GEL-LITE SHOW）"
+      description: "軽量で透湿性に優れた防水ジャケット。雨の中での朝ランに最適。動きやすさと防水性のバランスが秀逸。梅雨時期に最強の一枚。"
+      who_for: "梅雨時期に朝ランを続けたい人 | 雨の中でのランニング習慣を構築したい経営層 | レジリエンスを体現したい CEO"
+      implementation_guide: "1. 購入後、実際の雨の中で 3-5km 試走 | 2. 通気性と防水性のバランスを確認 | 3. 朝ランの習慣維持に組み込み、チーム内で「雨でも走る姿」を体現"
+      review_summary: "防水性が優秀 | 軽くて動きやすい | 梅雨時期の必須アイテム"
+      review_count: 892
+      price: "¥6,800"
+      lifespan: "2-3シーズン"
+      rating: 4.8
+      url: "https://www.amazon.co.jp/s?k=ASICS+防水ランニングジャケット"
+
+    - name: "Nike DRY-FIT 防水パンツ"
+      description: "吸湿速乾機能付き防水パンツ。雨による足元のベタつきを完全に防止。動きやすさも損なわない設計。"
+      who_for: "雨の日でも快適にランニングしたい人 | 足元の不快感を軽減したい人 | 習慣を続けたい人"
+      implementation_guide: "1. ジャケットとセットで購入推奨 | 2. 実際の雨の中で 5km 試走 | 3. 吸湿速乾性を確認してから頻用"
+      review_summary: "足元がサラサラ | 動きやすさが高い | 雨の日も快適"
+      review_count: 756
+      price: "¥5,500"
+      lifespan: "2-3シーズン"
+      rating: 4.7
+      url: "https://www.amazon.co.jp/s?k=Nike+DRY-FIT+防水パンツ"
+
+    - name: "Saucony 防水ランニングシューズ"
+      description: "防水メンブレン搭載のランニングシューズ。水の侵入を完全に防ぎながら、クッション性を損なわない設計。雨の日のマラソンに最適。"
+      who_for: "梅雨時期のフルマラソン走行予定者 | 雨の日でも通常のシューズ感覚で走りたい人 | 習慣継続を最優先する人"
+      implementation_guide: "1. 通常のシューズより 0.5cm 大きめサイズ推奨（防水膜の厚みのため） | 2. 乾燥後の水分除去が重要 | 3. 梅雨シーズン前に購入"
+      review_summary: "水が入らない | シューズ感覚で走れる | 梅雨の味方"
+      review_count: 634
+      price: "¥13,200"
+      lifespan: "400-500km"
+      rating: 4.6
+      url: "https://www.amazon.co.jp/s?k=Saucony+防水ランニングシューズ"
+
+    - name: "防水ランニング腕時計（Garmin Instinct 2S）"
+      description: "完全防水（10ATM）で GPS 搭載。雨の中でも HR V、睡眠、走行距離を計測。データドリブンなランニング管理が可能。"
+      who_for: "HRV データで判断力をモニタリングしたい人 | 雨の日の走行データを記録したい人 | パフォーマンス管理を科学的にしたい人"
+      implementation_guide: "1. 防水性と機能性を確認 | 2. HRV・睡眠スコア・GPS データの活用を計画 | 3. 月1回のデータレビュー会議で実装効果を測定"
+      review_summary: "完全防水で安心 | GPS が正確 | HRV データが有用"
+      review_count: 1203
+      price: "¥35,000"
+      lifespan: "3-5年"
+      rating: 4.8
+      url: "https://www.amazon.co.jp/s?k=Garmin+Instinct+2S"
+
+    - name: "防水リュック（The North Face Vault）"
+      description: "デイパック用途で防水機能完備。朝ランの着替えや荷物を安全に運べる。オフィス到着まで快適。"
+      who_for: "朝ランの後、そのままオフィスへ向かう人 | 着替えを濡らしたくない人 | 習慣を無理なく続けたい人"
+      implementation_guide: "1. 容量 25-30L が最適 | 2. ショルダーベルトが肩に優しいか確認 | 3. オフィスでの使いやすさも考慮"
+      review_summary: "防水性が本物 | 容量が丁度いい | オフィス用にも使える"
+      review_count: 1045
+      price: "¥8,800"
+      lifespan: "3-5年"
+      rating: 4.7
+      url: "https://www.amazon.co.jp/s?k=The+North+Face+Vault"
+
 # テンプレート（必要に応じてコピーして使用）
 # category-name:
 #   title: "ランキングのタイトル"
