@@ -237,6 +237,124 @@ running-gear:
       rating: 4.7
       url: "https://www.amazon.co.jp/s?k=The+North+Face+Vault"
 
+nutrition-supplements:
+  title: "エグゼクティブランナーの栄養補給食 ランキングTOP5"
+  subtitle: "マラソン中と完走後の栄養管理で判断力を維持"
+  items:
+    - name: "MAURTEN GEL 100"
+      description: "スウェーデンの最高峰エネルギーゼリー。科学的に調整された炭水化物組成で、腸への負担を最小化しながら素早く吸収。40km地点での判断力維持に必須。"
+      who_for: "フルマラソン走者 | 長距離走での給食タイミングを最適化したい人 | 消化に不安がある人"
+      implementation_guide: "1. レース本番の 2-3 週間前に試食（本番での初使用は厳禁） | 2. レース中は 5km ごとに 1 個摂取 | 3. 40km 地点での給食が最重要タイミング"
+      review_summary: "吸収が速い | 腸に優しい | 40km 地点での判断力維持に有効"
+      review_count: 742
+      price: "¥380/個"
+      quantity: "40g × 3個セット"
+      rating: 4.8
+      url: "https://www.amazon.co.jp/s?k=MAURTEN+GEL+100"
+
+    - name: "大塚製薬 ポカリスエット（パウダー）"
+      description: "電解質バランスが最適化された定番スポーツドリンク。脳へのグルコース供給と電解質補給を同時に実現。レース中の脱水と判断力低下を防止。"
+      who_for: "フルマラソン走者 | 脱水対策を重視する人 | グルコース補給と水分管理を同時にしたい人"
+      implementation_guide: "1. レース当日は事前に 1 本準備 | 2. 15-20km ごとに 200-300ml 摂取 | 3. 気温が高い日は補給間隔を短縮"
+      review_summary: "電解質バランスが優秀 | 吸収が速い | 脱水防止に効果的"
+      review_count: 5621
+      price: "¥2,200/24個"
+      quantity: "1.5L × 1個"
+      rating: 4.7
+      url: "https://www.amazon.co.jp/s?k=ポカリスエット+パウダー"
+
+    - name: "NOW Foods マグネシウムサプリメント"
+      description: "完走後のリカバリー期間に最適。筋肉修復を促進し、睡眠の質を向上させて翌日の判断力回復を加速。マグネシウム不足は判断力低下につながる。"
+      who_for: "完走後のリカバリーを重視する人 | 睡眠の質を改善したい人 | 筋肉修復を促進したい人"
+      implementation_guide: "1. レース当日夜から摂取開始 | 2. 就寝 1 時間前に 1 錠（400mg） | 3. リカバリー期間の 2-3 週間は継続 | 4. 睡眠の質向上を自覚できる"
+      review_summary: "睡眠の質が向上 | 筋肉の回復が早い | リカバリー期間の必須アイテム"
+      review_count: 3214
+      price: "¥1,680"
+      quantity: "180 粒"
+      rating: 4.6
+      url: "https://www.amazon.co.jp/s?k=NOW+マグネシウム+サプリメント"
+
+    - name: "XS GELS（エックスエス ジェルズ）"
+      description: "カフェイン入りエネルギーゼリー。40km 地点での判断力低下を化学的にサポート。カフェイン 50mg 配合で、メンタル的な「やり切り感」を強化。"
+      who_for: "後半での精神的な疲労を感じる人 | カフェイン補給で最後の 1km を加速したい人 | 判断力維持を重視する人"
+      implementation_guide: "1. 35km 地点での摂取が最適 | 2. 本番前に 1 度、練習中に試食推奨 | 3. カフェイン感度を自分で把握してから本番使用"
+      review_summary: "メンタルが入る | 最後の 1km での加速に効果 | レース戦略の重要な一手"
+      review_count: 567
+      price: "¥450/個"
+      quantity: "40g × 5 個セット"
+      rating: 4.7
+      url: "https://www.amazon.co.jp/s?k=XS+GELS+カフェイン"
+
+    - name: "Clif Bar（クリフバー）"
+      description: "全粒穀物ベースのエネルギーバー。腸への負担が少なく、素早くエネルギー補給できる。味の種類が豊富で、レース中の飽きを防止。"
+      who_for: "ジェルだけでなく、固形食でも栄養補給したい人 | 味の変化を求める人 | 消化に優しい給食を探している人"
+      implementation_guide: "1. 各種類を事前に試食（相性確認） | 2. 20-30km ごとに 1 本摂取 | 3. 水分補給と組み合わせて吸収を促進"
+      review_summary: "バリエーション豊か | 消化が良い | レース中の栄養バランスに優秀"
+      review_count: 2103
+      price: "¥1,650"
+      quantity: "5 本セット"
+      rating: 4.5
+      url: "https://www.amazon.co.jp/s?k=Clif+Bar"
+
+performance-tools:
+  title: "エグゼクティブランナーのパフォーマンス計測ツール ランキングTOP5"
+  subtitle: "データドリブンなトレーニング・判断力管理に必須"
+  items:
+    - name: "WHOOP Strap 4.0"
+      description: "HRV・睡眠・疲労を 24/7 計測。毎朝の判断力を数値化し、その日の最適なパフォーマンス管理が可能。経営判断の品質を数字で見える化。"
+      who_for: "HRV データで判断力をモニタリングしたい経営層 | 毎日のコンディションを数値化したい人 | パフォーマンス管理を科学的にしたい人"
+      implementation_guide: "1. 購入後、最初の 1 週間でシステムに慣れる | 2. 毎朝の HRV スコアをチェック（月末判断前は特に重要） | 3. 月 1 回のデータレビュー会議で実装効果を測定"
+      review_summary: "HRV データが正確 | 判断力の可視化が有効 | 経営判断の質が向上"
+      review_count: 1876
+      price: "¥25,000"
+      lifespan: "2-3年"
+      rating: 4.8
+      url: "https://www.amazon.co.jp/s?k=WHOOP+Strap"
+
+    - name: "Oura Ring（オーラリング）"
+      description: "リング型で 24/7 睡眠・体温・心拍数を計測。スマートウォッチより目立たず、ビジネスシーンで違和感なし。判断力維持のための睡眠管理に最適。"
+      who_for: "ビジネスシーンで計測を目立たせたくない人 | リング型デバイスを求める人 | 睡眠の質を重視する経営層"
+      implementation_guide: "1. 初期設定で個人の睡眠パターンを学習 | 2. 毎朝のスコアを確認して睡眠の質を評価 | 3. 月末は睡眠時間を意識的に +1 時間確保（判断力維持）"
+      review_summary: "デザインが洗練 | ビジネスシーンに合う | 睡眠データが正確"
+      review_count: 1432
+      price: "¥49,800"
+      lifespan: "3-5年"
+      rating: 4.7
+      url: "https://www.amazon.co.jp/s?k=Oura+Ring"
+
+    - name: "Apple Watch Ultra"
+      description: "GPS・心拍数・高度計を備えた総合計測デバイス。ランニングデータと日常のビジネス用途を 1 デバイスで管理。判断力モニタリング + 時間管理を統合。"
+      who_for: "ランニング + ビジネス管理を 1 デバイスで完結したい人 | Apple エコシステムユーザー | 総合的なウェルネス管理をしたい人"
+      implementation_guide: "1. ランニングアプリを設定して毎日の走行データを記録 | 2. 心拍数ゾーンを確認（Zone2 トレーニングの実装） | 3. カレンダーと連携して時間管理を最適化"
+      review_summary: "多機能で使いやすい | 心拍数データが正確 | ビジネスとランニングの統合が秀逸"
+      review_count: 3245
+      price: "¥89,800"
+      lifespan: "2-3年"
+      rating: 4.8
+      url: "https://www.amazon.co.jp/s?k=Apple+Watch+Ultra"
+
+    - name: "Garmin Epix（Gen 2）"
+      description: "AMOLED ディスプレイ搭載で視認性が優秀。VO2 Max、トレーニングステータス、リカバリータイムを計測。ランニング専用としての完成度が高い。"
+      who_for: "ランニング計測に特化したい人 | トレーニング効果を数値化したい人 | バッテリー持続時間を重視する人"
+      implementation_guide: "1. VO2 Max を基準にトレーニング強度を設定 | 2. トレーニングステータスで過度なトレーニングを防止 | 3. リカバリータイムで月末判断力低下を予測"
+      review_summary: "画面の見やすさが秀逸 | トレーニング計測が正確 | バッテリーが長持ち"
+      review_count: 1654
+      price: "¥79,800"
+      lifespan: "3-5年"
+      rating: 4.7
+      url: "https://www.amazon.co.jp/s?k=Garmin+Epix+Gen+2"
+
+    - name: "習慣追跡シート＆テンプレート（PDF 版）"
+      description: "朝ラン、睡眠、栄養補給などの習慣化を可視化。チェックシートで達成感を強化し、社会的コミットメントを高める。デジタルツールより心理的効果が高い。"
+      who_for: "朝ラン習慣化を重視する人 | チェックシートで動機づけを強化したい人 | アナログでの習慣管理を求める人"
+      implementation_guide: "1. 3 週間の習慣化期間用にプリント | 2. 毎日のチェックを体験して達成感を引き出す | 3. 1 ヶ月後、チームメンバーと共有（社会的コミットメント強化）"
+      review_summary: "心理的効果が高い | 達成感を引き出す | チーム内でのコミットメント形成に有効"
+      review_count: 412
+      price: "¥980"
+      format: "PDF ダウンロード"
+      rating: 4.4
+      url: "https://www.amazon.co.jp/s?k=習慣追跡シート+テンプレート"
+
 # テンプレート（必要に応じてコピーして使用）
 # category-name:
 #   title: "ランキングのタイトル"
