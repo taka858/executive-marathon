@@ -170,9 +170,9 @@ googleAnalytics = "G-2ES90HSWL0"
 
 # Frontmatter formats (support YAML and TOML)
 [frontmatter]
-  date = ["date", "publishDate", "lastmod"]
-  lastmod = [":git", "lastmod", "date", "publishDate"]
-  publishDate = ["publishDate", "date"]
+  date = ["date"]
+  lastmod = ["lastmod", "date"]
+  publishDate = ["publishDate"]
   expiryDate = ["expiryDate"]
 
 # Custom CSS
