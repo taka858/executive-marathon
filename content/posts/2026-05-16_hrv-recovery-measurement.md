@@ -151,7 +151,7 @@ Apple Watch Series 9 以上で HRV が自動計測される。毎朝ベッドで
 - **メリット**：最も正確、HRV だけでなく「Body Battery」という総合指数も見られる
 - **デメリット**：初期設定が複雑
 
-{{< affiliate id="amazon-gps-watch" text="Garmin ForeRunner - Amazon で見る" >}}
+[running-gear](/product-recommendations/)で推奨されているGarmin Forerunner などのスマートウォッチが、HRV計測に最適です。
 
 ### オプション3：Oura Ring（眠りながら計測）
 
@@ -271,9 +271,7 @@ A：ならない。HRV は個人デバイス内に保存され、Apple/Garmin �
 
 ## パフォーマンス支援ツール
 
-HRV を上げるための リカバリーとストレス管理：
-
-{{< affiliate id="amazon-supplement-002" text="リカバリー栄養補給・マグネシウムサプリ - Amazon で見る" >}}
+HRV を上げるためのリカバリーとストレス管理には、[performance-tools](/product-recommendations/)と[nutrition-supplements](/product-recommendations/)のマグネシウムサプリ、リカバリー栄養補給製品が有効です。
 
 瞑想アプリ（無料も多い）：
 - Calm
@@ -308,6 +306,9 @@ HRV は、そのリカバリーが「実際に起きているか」を「数値�
 - [Cold Plunge（冷水浸浴）でリカバリーと判断力を加速：シリコンバレーの秘密兵器](/posts/cold-plunge-recovery-performance/)
 - [遠赤外線サウナでストレス軽減と脳パフォーマンス：Cold Plunge が怖い人向けのシリコンバレー流リカバリー](/posts/sauna-recovery-wellness/)
 - [経営判断力を支える栄養戦略：エネルギー管理からパフォーマンス最適化へ](/posts/nutrition-performance-leadership/)
+
+---
+
 ## 関連記事
 
 - [エグゼクティブマラソニスト向けおすすめ商品ランキング](/product-recommendations/)

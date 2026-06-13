@@ -179,13 +179,10 @@ A：限定的。睡眠不足は、いかなる栄養戦略もカバーできな�
 
 ## パフォーマンス支援ツール
 
-栄養補給の効率を高めるなら、以下が有効です：
+栄養補給の効率を高めるなら、[ランキングページ](/product-recommendations/)で紹介する栄養サプリメント・プロテイン製品が有効です。
 
-**即座のエネルギー補給・リカバリー：**
-
-{{< affiliate id="amazon-supplement-002" text="プロテインパウダー - Amazon で見る" >}}
-
-{{< affiliate id="amazon-supplement-001" text="BCAA・電解質補給サプリメント - Amazon で見る" >}}
+**推奨製品：**
+[nutrition-supplements](/product-recommendations/)では、プロテインパウダーからBCAA、電解質補給サプリメントまで、経営判断力を支える栄養製品をランキング形式で厳選紹介。朝食の高タンパク質化、午後スナックの栄養補給に最適な製品を探ることができます。
 
 ---
 
@@ -219,6 +216,9 @@ A：限定的。睡眠不足は、いかなる栄養戦略もカバーできな�
 - [決定疲れを制御する経営リーダー：マラソンペーシングから学ぶ判断力の維持](/posts/decision-fatigue-leadership/)
 - [朝のボランティアランで体感した脳化学：セロトニン、コルチゾル、判断力の関係](/posts/morning-exercise-brain-performance/)
 - [HRV（心拍変動）でリカバリーと判断力を科学的に測定：シリコンバレーのリーダーはなぜ数字を見るのか](/posts/hrv-recovery-measurement/)
+
+---
+
 ## 関連記事
 
 - [エグゼクティブマラソニスト向けおすすめ商品ランキング](/product-recommendations/)

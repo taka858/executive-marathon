@@ -84,11 +84,11 @@ draft: false
 7. ゆっくり戻す
 ```
 
-{{< affiliate id="amazon-yoga-mat" text="ヨガマットで床座りストレッチを快適に" >}}
+[performance-tools](/product-recommendations/)で推奨されているヨガマットを活用。快適なストレッチ環境の構築に役立ちます。
 
 #### **方法3：フォームローラーでの筋膜リリース（5分）**
 
-{{< affiliate id="amazon-foam-roller" text="フォームローラーでハムストリング筋膜リリース" >}}
+[performance-tools](/product-recommendations/)で推奨されているフォームローラーを活用。ハムストリング筋膜リリースに最適な製品が厳選されています。
 
 ```
 1. 床に座り、フォームローラーをハムストリングの下に置く
@@ -119,9 +119,7 @@ draft: false
 
 **1. マグネシウム + Omega-3（朝食の30分前）**
 
-{{< affiliate id="amazon-magnesium-supplement" text="マグネシウムで筋肉回復を促進" >}}
-
-{{< affiliate id="amazon-omega3-supplement" text="Omega-3で炎症軽減と脳パフォーマンス向上" >}}
+[nutrition-supplements](/product-recommendations/)と[performance-tools](/product-recommendations/)で、マグネシウムサプリメントとOmega-3製品が厳選されています。リカバリーと脳パフォーマンス向上に有効な製品をランキング形式で選択できます。
 
 理由：
 - **マグネシウム**：筋肉の収縮と弛緩をコントロール。不足すると筋肉硬化が続く。
@@ -141,7 +139,7 @@ draft: false
 - 脂質：吸収促進（ビタミン吸収）
 ```
 
-{{< affiliate id="amazon-protein-travel-pack" text="ポータブルプロテインで栄養補給を簡単に" >}}
+[nutrition-supplements](/product-recommendations/)で推奨されているポータブルプロテイン製品。リカバリーセッション中の栄養補給を効率的に行うための高品質製品が厳選されています。
 
 #### **朝日浴後：プロテインドリンク（6時30分）**
 
@@ -308,6 +306,8 @@ Day 5以降：通常ペース復帰、ただし週単位でボリューム増加
 ストレッチ。マッサージ。栄養学。朝日。
 
 すべてが揃った時、体は「修復モード」に入る。
+
+---
 
 ---
 

@@ -248,11 +248,7 @@ Cold Plunge 実施日 vs 非実施日で、判断力・疲労感を比較。
 
 ## パフォーマンス支援ツール
 
-Cold Plunge 後のリカバリー栄養補給：
-
-{{< affiliate id="amazon-supplement-002" text="プロテイン・リカバリー栄養補給 - Amazon で見る" >}}
-
-{{< affiliate id="amazon-supplement-001" text="電解質補給・スポーツドリンク - Amazon で見る" >}}
+Cold Plunge 後のリカバリーを最適化するには、[nutrition-supplements](/product-recommendations/)と[performance-tools](/product-recommendations/)の製品が役立ちます。プロテイン、電解質補給ドリンク、リカバリー専用製品を組み合わせることで、Cold Plunge の効果を最大化できます。
 
 ---
 
@@ -283,6 +279,9 @@ Zone 2トレーニング + 栄養管理 + Cold Plunge——この3つの組み�
 - [HRV（心拍変動）でリカバリーと判断力を科学的に測定：シリコンバレーのリーダーはなぜ数字を見るのか](/posts/hrv-recovery-measurement/)
 - [遠赤外線サウナでストレス軽減と脳パフォーマンス：Cold Plunge が怖い人向けのシリコンバレー流リカバリー](/posts/sauna-recovery-wellness/)
 - [Zone 2トレーニングで1年でサブ3.5達成：米国流・低負荷・高効率マラソン戦略](/posts/zone2-training-sub35/)
+
+---
+
 ## 関連記事
 
 - [エグゼクティブマラソニスト向けおすすめ商品ランキング](/product-recommendations/)

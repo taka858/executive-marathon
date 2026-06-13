@@ -222,9 +222,7 @@ Zone 2 = 108-126 bpm（60-70%）
 
 ### ステップ2：GPSウォッチを用意する（今週）
 
-心拍数を正確に測定するために、GPSウォッチが必須。
-
-{{< affiliate id="amazon-gps-watch" text="Garmin ForeRunner - Amazon で見る" >}}
+心拍数を正確に測定するために、GPSウォッチが必須。[running-gear](/product-recommendations/)で推奨されているGarminやApple Watchなどのスマートウォッチを活用しましょう。
 
 ### ステップ3：週3回のZone 2走を試行する（来週から）
 
@@ -238,11 +236,7 @@ Zone 2 = 108-126 bpm（60-70%）
 
 ## パフォーマンス支援ツール
 
-Zone 2 トレーニングの栄養サポート：
-
-{{< affiliate id="amazon-supplement-002" text="プロテイン・栄養補給 - Amazon で見る" >}}
-
-{{< affiliate id="amazon-supplement-001" text="電解質補給・ドリンク - Amazon で見る" >}}
+Zone 2 トレーニングの栄養サポートは、[nutrition-supplements](/product-recommendations/)や[performance-tools](/product-recommendations/)を参照してください。プロテイン、電解質補給ドリンク、リカバリー製品が充実しています。
 
 ---
 
@@ -274,6 +268,9 @@ Zone 2 トレーニングは：
 - [初めてのマラソン登録：部門長のための実践ガイド](/posts/marathon-registration-guide/)
 - [Cold Plunge（冷水浸浴）でリカバリーと判断力を加速：シリコンバレーの秘密兵器](/posts/cold-plunge-recovery-performance/)
 - [HRV（心拍変動）でリカバリーと判断力を科学的に測定：シリコンバレーのリーダーはなぜ数字を見るのか](/posts/hrv-recovery-measurement/)
+
+---
+
 ## 関連記事
 
 - [エグゼクティブマラソニスト向けおすすめ商品ランキング](/product-recommendations/)

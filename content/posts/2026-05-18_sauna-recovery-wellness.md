@@ -310,13 +310,7 @@ A：混ぜない方が良い。遠赤外線は 40-60℃、通常サウナは 80-
 
 ## パフォーマンス支援ツール
 
-遠赤外線サウナ後の水分・電解質補給：
-
-{{< affiliate id="amazon-supplement-001" text="電解質補給・スポーツドリンク - Amazon で見る" >}}
-
-サウナ後のリカバリー栄養：
-
-{{< affiliate id="amazon-supplement-002" text="プロテイン・栄養補給 - Amazon で見る" >}}
+遠赤外線サウナ後の水分・電解質補給と栄養補給には、[nutrition-supplements](/product-recommendations/)と[performance-tools](/product-recommendations/)のスポーツドリンク、プロテイン、リカバリー栄養製品が有効です。サウナセッション後のリカバリーを最適化するために、品質の高い製品を厳選することが重要です。
 
 ---
 
@@ -352,6 +346,9 @@ Cold Plunge よりも：
 - [Cold Plunge（冷水浸浴）でリカバリーと判断力を加速：シリコンバレーの秘密兵器](/posts/cold-plunge-recovery-performance/)
 - [HRV（心拍変動）でリカバリーと判断力を科学的に測定：シリコンバレーのリーダーはなぜ数字を見るのか](/posts/hrv-recovery-measurement/)
 - [経営判断力を支える栄養戦略：エネルギー管理からパフォーマンス最適化へ](/posts/nutrition-performance-leadership/)
+
+---
+
 ## 関連記事
 
 - [エグゼクティブマラソニスト向けおすすめ商品ランキング](/product-recommendations/)

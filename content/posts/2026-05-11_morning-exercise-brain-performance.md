@@ -209,13 +209,11 @@ A：段階的に低下する。セロトニン分泌は、運動をやめると3
 
 **運動後の栄養補給強化：**
 
-{{< affiliate id="amazon-supplement-002" text="プロテインパウダー - Amazon で見る" >}}
-
-{{< affiliate id="amazon-supplement-001" text="BCAAsと電解質補給 - Amazon で見る" >}}
+[nutrition-supplements](/product-recommendations/)と[performance-tools](/product-recommendations/)で、プロテインパウダー、BCAA、電解質補給製品をランキング形式で紹介。朝運動後の栄養補給を最適化することで、脳のセロトニン・ノルアドレナリン分泌を最大化できます。
 
 **朝のルーチン確立に関する学習：**
 
-{{< affiliate id="amazon-book-001" text="習慣形成とルーチン確立のビジネス書 - Amazon で見る" >}}
+朝のルーチン確立と習慣形成に関する書籍も[business-books](/product-recommendations/)でランキング化されています。「習慣のちから」「Getting Things Done」などが推奨されます。
 
 ---
 
@@ -251,6 +249,9 @@ A：段階的に低下する。セロトニン分泌は、運動をやめると3
 - [エンジニアリングリーダーとして、マラソンで学んだこと](/posts/mental-training-leadership/)
 - [経営判断力を支える栄養戦略：エネルギー管理からパフォーマンス最適化へ](/posts/nutrition-performance-leadership/)
 - [遠赤外線サウナでストレス軽減と脳パフォーマンス：Cold Plunge が怖い人向けのシリコンバレー流リカバリー](/posts/sauna-recovery-wellness/)
+
+---
+
 ## 関連記事
 
 - [エグゼクティブマラソニスト向けおすすめ商品ランキング](/product-recommendations/)

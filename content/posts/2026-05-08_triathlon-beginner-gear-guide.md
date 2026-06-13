@@ -95,7 +95,7 @@ draft: false
 
 理由は、単純に「スピードが好き」。苦しい思いするなら、速く走った方がマシ。
 
-{{< affiliate id="amazon-shoes-002" text="ロードバイク・トライアスロン用バイク検索 - Amazon で見る" >}}
+トライアスロン用バイクとアクセサリーは[triathlon-gear](/product-recommendations/)で厳選されています。初心者向けから上級者向けまで、質の高いバイク選びに活用してください。
 
 **バイク購入時の注意点：**
 
@@ -120,7 +120,7 @@ draft: false
 
 **バイク後の脚でも走れるシューズ選びが重要です。**
 
-{{< affiliate id="amazon-supplement-001" text="トライアスロン用栄養補給・リカバリーサプリメント - Amazon で見る" >}}
+トライアスロン用栄養補給・リカバリーサプリメントは[nutrition-supplements](/product-recommendations/)と[performance-tools](/product-recommendations/)で、質の高い製品がランキング化されています。3種目を同時進行で行うスポーツだからこそ、リカバリーが重要です。
 
 ---
 
@@ -250,3 +250,9 @@ A: あります。ブレスト部分がフィット。購入時は必ず「女�
 - [なぜ、部門長はマラソンを走るのか](/posts/why-executives-should-run-triathlon/)
 - [ランニングシューズ選びガイド：ビジネス的最適化 × テクノロジー](/posts/running-shoes-guide/)
 - [マラソンで成功する金銭的フィットネス戦略](/posts/financial-fitness/)
+
+---
+
+## 関連商品
+
+トライアスロン開始に必要な装備全般は[triathlon-gear](/product-recommendations/)でランキング化されています。
