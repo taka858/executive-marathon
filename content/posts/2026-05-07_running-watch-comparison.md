@@ -1,6 +1,7 @@
 ---
 title: "ランニングウォッチ徹底比較 2026 - Garmin vs Apple Watch vs Polar | エンジニア向け選定ガイド"
 date: 2026-05-07
+publishDate: 2026-05-07T00:00:00Z
 slug: "running-watch-comparison"
 author: "Executive Marathon"
 description: "Garmin・Apple Watch・Polarを実装比較。GPS精度・心拍計測・バッテリー・データ分析機能を徹底検証。エンジニアリーダーが選ぶランニングウォッチの選定基準と最適な機種を解説。"

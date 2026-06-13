@@ -1,6 +1,7 @@
 ﻿---
 title: "突然の嵐 - 予測不可能なストレス下での判断力とレジリエンス"
 date: 2026-05-28T00:00:00Z
+publishDate: 2026-05-28T00:00:00ZT00:00:00Z
 slug: "sudden-storm-resilience"
 author: "Executive Marathon"
 description: "ニューヨーク滞在中、予報になかった嵐が突然発生。気圧低下、湿度変化、視界喪失。体は激しくストレス反応。その中での判断と、予測不可能な環境へのレジリエンスの本質。"

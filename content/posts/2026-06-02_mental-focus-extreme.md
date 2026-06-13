@@ -2,6 +2,7 @@
 title: "集中力の極致：42.195kmを完走できるメンタルは、5年の経営も支える"
 slug: "mental-focus-marathon-leadership"
 date: 2026-06-02T00:00:00Z
+publishDate: 2026-06-02T00:00:00Z
 lastmod: 2026-06-02T00:00:00Z
 author: "Executive Marathon"
 description: "ロンドンマラソンの世界記録達成者から学ぶ、メンタルトレーニングの真実。集中力が維持できる脳の状態とは何か？経営判断との共通構造を解析。"

@@ -1,6 +1,7 @@
 ﻿---
 title: "決定疲れ（Decision Fatigue）を制御する経営リーダー：マラソン戦略で判断力を維持"
 date: 2026-05-09
+publishDate: 2026-05-09T00:00:00Z
 description: "経営判断で消費される意思決定リソースを、マラソンペーシング戦略で最適化。午後3時の判断力低下を克服し、組織パフォーマンス30%向上させる具体的手法。リーダー必読の決定疲れ対策。"
 author: "Executive Marathon"
 categories: ["リーダーシップ", "意思決定", "Performance"]

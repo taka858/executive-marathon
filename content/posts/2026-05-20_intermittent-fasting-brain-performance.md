@@ -1,6 +1,7 @@
 ﻿---
 title: "16:8 Intermittent Fasting で判断力30%UP - シリコンバレーが採用する『朝食なし』戦略"
 date: 2026-05-20T00:00:00Z
+publishDate: 2026-05-20T00:00:00ZT00:00:00Z
 slug: "intermittent-fasting-brain-performance"
 author: "Executive Marathon"
 description: "16:8断食（8時間以内の食事、16時間の断食）で脳はケトン体をエネルギー化し、判断力・集中力が30%向上。シリコンバレーのCEOが朝ランの前に食べない理由。科学的根拠と実装ガイド。"

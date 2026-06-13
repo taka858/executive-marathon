@@ -1,6 +1,7 @@
 ﻿---
 title: "Cold Plunge（冷水浸浴）でリカバリーと判断力を加速：シリコンバレーの秘密兵器"
 date: 2026-05-15T00:00:00Z
+publishDate: 2026-05-15T00:00:00ZT00:00:00Z
 slug: "cold-plunge-recovery-performance"
 description: "Cold Plunge（冷水浸浴）で筋肉リカバリーと脳パフォーマンスを加速。シリコンバレーのCEO・起業家が実践する科学的根拠と実装方法。判断力向上、ストレス耐性強化、睡眠質向上の体験レポート。"
 author: "Executive Marathon"

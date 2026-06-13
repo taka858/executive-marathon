@@ -1,6 +1,7 @@
 ﻿---
 title: "予定変更への対応力 - 寝坊から学ぶ、経営判断もマラソンも同じ"
 date: 2026-05-24T00:00:00Z
+publishDate: 2026-05-24T00:00:00ZT00:00:00Z
 slug: "adaptability-unexpected-changes"
 author: "Executive Marathon"
 description: "朝4時半ランの予定で寝坊した。パフォーマンスは低下したが、それでも走った。経営判断も同じ。完璧な計画より、予期しない事態への対応力がリーダーシップの本質。明日のMemorial Dayを前に、責任感の価値を考える。"

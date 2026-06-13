@@ -1,6 +1,7 @@
 ﻿---
 title: "経営判断力を支える栄養戦略 - 朝食で午後の判断力30%アップ"
 date: 2026-05-10
+publishDate: 2026-05-10T00:00:00Z
 slug: "nutrition-performance-leadership"
 description: "朝食で午後の判断力が30%変わる。マラソンランナーの栄養管理から学ぶ、リーダーの脳パフォーマンス最適化。タイミング栄養学で集中力・判断力・レジリエンスを支える科学的手法。"
 author: "Executive Marathon"

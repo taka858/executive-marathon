@@ -2,6 +2,7 @@
 title: "疲労と判断力の科学：月末月初の重要判断を失敗させない戦略"
 slug: "fatigue-decision-making-strategy"
 date: 2026-06-04T00:00:00Z
+publishDate: 2026-06-04T00:00:00Z
 lastmod: 2026-06-04T00:00:00Z
 author: "Executive Marathon"
 description: "疲労はどのように判断力を奪うのか？月末月初・プロジェクト終盤の重要決定を失敗させない、脳科学的な対策とリカバリー戦略。"

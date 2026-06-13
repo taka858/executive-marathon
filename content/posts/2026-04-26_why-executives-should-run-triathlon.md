@@ -1,6 +1,7 @@
 ---
 title: "なぜ、部門長はマラソンを走るのか - リーダーシップと意思決定力の向上"
 date: 2026-04-26
+publishDate: 2026-04-26T00:00:00Z
 slug: "why-executives-should-run-triathlon"
 author: "Executive Marathon"
 description: "採用・解雇・事業管理に直面するVP/部門長へ。マラソンが意思決定力とメンタルレジリエンスを30%向上させる理由。組織戦略とペーシング戦略の共通点。テック業界の経営層が実践するストレス管理法。"

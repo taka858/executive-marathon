@@ -1,6 +1,7 @@
 ﻿---
 title: "遠赤外線サウナでストレス軽減と脳パフォーマンス向上 - Cold Plunge の心理的代替策"
 date: 2026-05-18T00:00:00Z
+publishDate: 2026-05-18T00:00:00ZT00:00:00Z
 slug: "sauna-recovery-wellness"
 description: "Cold Plunge が怖いあなたへ。シリコンバレーの遠赤外線サウナでストレスホルモン低下、BDNF向上、判断力30%回復。心理的ハードルなしで脳パフォーマンス向上させるリカバリー法。"
 author: "Executive Marathon"

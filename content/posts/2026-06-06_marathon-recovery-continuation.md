@@ -2,6 +2,7 @@
 title: "マラソン完走後の30日間リカバリー：怪我を避けながら次へのチャレンジを準備する"
 slug: "marathon-recovery-continuation-strategy"
 date: 2026-06-06T00:00:00Z
+publishDate: 2026-06-06T00:00:00Z
 lastmod: 2026-06-06T00:00:00Z
 author: "Executive Marathon"
 description: "初マラソンを完走した後、体とメンタルはどのような状態？最初の30日間のリカバリー戦略と、継続的にマラソンを走り続けるための実装ガイド。"

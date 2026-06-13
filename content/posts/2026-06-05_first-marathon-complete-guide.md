@@ -2,6 +2,7 @@
 title: "初マラソン向け完全ガイド：経営層が30日で完走するトレーニング戦略"
 slug: "first-marathon-complete-guide"
 date: 2026-06-05T00:00:00Z
+publishDate: 2026-06-05T00:00:00Z
 lastmod: 2026-06-05T00:00:00Z
 author: "Executive Marathon"
 description: "初めてのマラソンに挑戦する経営層向け。30日の実装的なトレーニング計画、心理的準備、リカバリー戦略、レース当日の判断力維持方法。科学的根拠に基づいた完走プログラム。"

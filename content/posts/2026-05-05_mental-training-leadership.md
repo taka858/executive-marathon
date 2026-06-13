@@ -1,6 +1,7 @@
 ﻿---
 title: "エンジニアリングリーダーとして、マラソンで学んだリーダーシップと判断力の向上"
 date: 2026-05-05
+publishDate: 2026-05-05T00:00:00Z
 slug: "mental-training-leadership"
 author: "Executive Marathon"
 description: "エンジニア組織リーダーが実践するメンタルトレーニング。マラソンで判断力が30%向上した理由。午後3時の判断力低下を克服し、チーム運営の質を高める具体的手法。リーダー必読。"

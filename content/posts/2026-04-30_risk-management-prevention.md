@@ -1,6 +1,7 @@
 ﻿---
 title: "マラソン選手のケガは『システム障害』—ビジネスの予防保全思想からの学び"
 date: 2026-04-30
+publishDate: 2026-04-30T00:00:00Z
 description: "130人以上のチーム経営経験から。ビジネスのリスク管理手法をランナーのケガ予防に応用する方法。"
 author: "Executive Marathon"
 categories: ["Training", "Injury Prevention"]

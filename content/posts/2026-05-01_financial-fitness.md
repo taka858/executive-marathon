@@ -1,6 +1,7 @@
 ﻿---
 title: "マラソンで成功する金銭的フィットネス戦略"
 date: 2026-05-01
+publishDate: 2026-05-01T00:00:00Z
 description: "トレーニング費用を戦略的に最適化し、ROIを最大化するマラソンランナーのための予算計画"
 author: "Executive Marathon"
 categories: ["財務計画", "マラソントレーニング", "費用最適化"]

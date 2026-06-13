@@ -1,7 +1,8 @@
 ﻿---
 title: "2時間未満の壁を破ったSabastian Sawe：パフォーマンス最適化とペーシング戦略に学ぶ"
 slug: "sabastian-sawe-2026-world-record"
-date: 2026-06-01T00:00:00Z
+date: 2026-06-01
+publishDate: 2026-06-01T00:00:00Z
 lastmod: 2026-06-01T00:00:00Z
 author: "Executive Marathon"
 description: "Sabastian Saweがロンドンマラソン2026で1時間59分30秒の世界記録達成。エグゼクティブランナーが学ぶべき、ペーシング戦略、判断力、そしてメンタルの極致。"

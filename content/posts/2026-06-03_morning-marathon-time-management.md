@@ -2,6 +2,7 @@
 title: "朝5時マラソン習慣の経営学：時間管理の最適化と判断力の復活"
 slug: "morning-marathon-time-management"
 date: 2026-06-03T00:00:00Z
+publishDate: 2026-06-03T00:00:00Z
 lastmod: 2026-06-03T00:00:00Z
 author: "Executive Marathon"
 description: "朝5時にマラソンを走る経営層が実践する時間管理戦略。限られた時間の中で、判断力・体力・メンタルを最大化する秘訣。"

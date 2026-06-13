@@ -2,6 +2,7 @@
 title: "バイリンガル経営者のマラソン戦略：グローバル事業開発と言語習得の持久力"
 slug: "bilingual-executive-marathon-strategy"
 date: 2026-06-09T00:00:00Z
+publishDate: 2026-06-09T00:00:00Z
 lastmod: 2026-06-09T00:00:00Z
 author: "Executive Marathon"
 description: "国際事業展開に必要なバイリンガル能力とマラソンの持久力は、実は同じメカニズムで成長する。グローバルなビジネス判断力を支える、言語習得とマラソンの関連性。"

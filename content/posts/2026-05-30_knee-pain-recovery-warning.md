@@ -1,6 +1,7 @@
 ﻿---
 title: "膝裏の痛み5日間が教えてくれたこと - 45km走後のオーバートレーニング警告信号"
 date: 2026-05-30T00:00:00Z
+publishDate: 2026-05-30T00:00:00ZT00:00:00Z
 slug: "knee-pain-recovery-warning"
 author: "Executive Marathon"
 description: "Memorial Day週末に45km走った後、膝窩部に5日間続く痛み。ロードトリップの疲労と重なった時、体が発していた警告信号の本質。リカバリーの優先度とハムストリング疲労の見極め方。"

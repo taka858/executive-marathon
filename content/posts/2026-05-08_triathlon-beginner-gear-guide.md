@@ -1,6 +1,7 @@
 ---
 title: "トライアスロン初心者装備ガイド：何を揃えるべきか"
 date: 2026-05-08
+publishDate: 2026-05-08T00:00:00Z
 slug: "triathlon-beginner-gear-guide"
 author: "Executive Marathon"
 description: "マラソン経験者がトライアスロンに挑戦する際に必要な装備。部門長向けの現実的なアドバイス。"

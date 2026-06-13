@@ -1,6 +1,7 @@
 ﻿---
 title: "初めてのマラソン登録：部門長のための実践ガイド"
 date: 2026-05-06
+publishDate: 2026-05-06T00:00:00Z
 slug: "marathon-registration-guide"
 author: "Executive Marathon"
 description: "忙しいエンジニアリングリーダーが初めてマラソンに登録する際の、実践的なステップバイステップガイド。"

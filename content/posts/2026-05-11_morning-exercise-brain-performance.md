@@ -1,6 +1,7 @@
 ﻿---
 title: "朝の運動で判断力30%UP - セロトニン・コルチゾルの脳科学"
 date: 2026-05-11T00:00:00Z
+publishDate: 2026-05-11T00:00:00ZT00:00:00Z
 slug: "morning-exercise-brain-performance"
 description: "朝4時半の運動でセロトニン・ノルアドレナリン分泌が増加し、経営判断力が30-40%向上。脳科学が実証する朝運動の効果。モーニングルーチン構築で午後5時の判断ミスをゼロに。"
 author: "Executive Marathon"

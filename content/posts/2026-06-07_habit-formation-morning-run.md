@@ -2,6 +2,7 @@
 title: "朝ランの習慣化が難しい理由と、3週間で定着させる実装ガイド"
 slug: "habit-formation-morning-run-3weeks"
 date: 2026-06-07T00:00:00Z
+publishDate: 2026-06-07T00:00:00Z
 lastmod: 2026-06-07T00:00:00Z
 author: "Executive Marathon"
 description: "朝5時にランニングを始めたい経営層へ。なぜ習慣化は失敗するのか？脳科学的な理由と、確実に3週間で定着させるための段階的実装ガイド。"
