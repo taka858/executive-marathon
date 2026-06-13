@@ -1,4 +1,4 @@
----
+﻿---
 title: "エンジニアリングリーダーとして、マラソンで学んだリーダーシップと判断力の向上"
 date: 2026-05-05
 slug: "mental-training-leadership"
@@ -74,7 +74,7 @@ draft: false
 
 **こうしたメンタルスキルについて、もっと学びたい方向けに、おすすめのビジネス書：**
 
-{{< affiliate id="amazon-book-001" text="判断力とメンタルに関するビジネス書 - Amazon で見る" >}}
+
 
 ---
 
@@ -96,11 +96,11 @@ draft: false
 
 **トレーニング中のハンガーノック対策に、エネルギー補給も重要です：**
 
-{{< affiliate id="amazon-supplement-001" text="持久力サポート・エネルギー補給サプリメント - Amazon で見る" >}}
+
 
 また、**毎日のパフォーマンス管理には、ウェアラブルデバイスも有効：**
 
-{{< affiliate id="amazon-gps-watch" text="GPS運動計測・心拍計測ウォッチ - Amazon で見る" >}}
+
 
 ---
 
@@ -177,7 +177,7 @@ draft: false
 
 **また、判断力とメンタルについて学べるビジネス書も合わせてご参考ください：**
 
-{{< affiliate id="amazon-book-002" text="リーダーシップと判断力に関する推奨本 - Amazon で見る" >}}
+
 
 ---
 
@@ -201,3 +201,8 @@ draft: false
 - [なぜ、部門長はマラソンを走るのか](/posts/why-executives-should-run-triathlon/)
 - [朝のボランティアランで体感した脳化学：セロトニン、コルチゾル、判断力の関係](/posts/morning-exercise-brain-performance/)
 - [1on1面談が機能しない理由：部下のモチベーション源を見つけるマラソンランナー的アプローチ](/posts/1on1-motivation-leadership/)
+
+## 関連記事
+
+- [ビジネス書](/product-recommendations/)
+

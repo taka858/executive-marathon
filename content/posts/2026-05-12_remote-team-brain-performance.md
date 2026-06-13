@@ -175,11 +175,11 @@ A：3つ。1）朝のルーチンを設定し維持する。2）ミーティン�
 
 リモートチーム管理の参考資料：
 
-{{< affiliate id="amazon-book-002" text="リモートチームマネジメント関連ビジネス書 - Amazon で見る" >}}
+
 
 **チームのエネルギー管理を支援する：**
 
-{{< affiliate id="amazon-supplement-001" text="チーム向けエネルギー補給・栄養サプリメント - Amazon で見る" >}}
+
 
 ---
 
@@ -203,6 +203,9 @@ A：3つ。1）朝のルーチンを設定し維持する。2）ミーティン�
 - [決定疲れを制御する経営リーダー：マラソンペーシングから学ぶ判断力の維持](/posts/decision-fatigue-leadership/)
 - [優秀な部下が辞める前に：オーバートレーニング症候群と組織のペース管理](/posts/overtraining-team-burnout/)
 - [1on1面談が機能しない理由：部下のモチベーション源を見つけるマラソンランナー的アプローチ](/posts/1on1-motivation-leadership/)
+
 ## 関連記事
 
-- [エグゼクティブマラソニスト向けおすすめ商品ランキング](/product-recommendations/)
+- [ビジネス書](/product-recommendations/) | [栄養補給サプリメント](/product-recommendations/)
+
+

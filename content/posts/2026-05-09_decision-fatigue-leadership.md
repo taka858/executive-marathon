@@ -145,11 +145,11 @@ A：走ったあとは、リカバリーが必要なように、判断疲労後�
 
 自分の判断パターンをモニタリングするなら、以下が有効です：
 
-{{< affiliate id="amazon-book-002" text="意思決定スキル向上のビジネス書 - Amazon で見る" >}}
+
 
 **エネルギー管理・リカバリー強化：**
 
-{{< affiliate id="amazon-supplement-001" text="判断疲労回復サプリメント・栄養補給 - Amazon で見る" >}}
+
 
 ---
 
@@ -181,6 +181,9 @@ A：走ったあとは、リカバリーが必要なように、判断疲労後�
 - [経営判断力を支える栄養戦略：エネルギー管理からパフォーマンス最適化へ](/posts/nutrition-performance-leadership/)
 - [朝のボランティアランで体感した脳化学：セロトニン、コルチゾル、判断力の関係](/posts/morning-exercise-brain-performance/)
 - [HRV（心拍変動）でリカバリーと判断力を科学的に測定：シリコンバレーのリーダーはなぜ数字を見るのか](/posts/hrv-recovery-measurement/)
+
 ## 関連記事
 
-- [エグゼクティブマラソニスト向けおすすめ商品ランキング](/product-recommendations/)
+- [ビジネス書](/product-recommendations/)
+
+

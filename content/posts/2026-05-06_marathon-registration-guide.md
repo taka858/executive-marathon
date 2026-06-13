@@ -1,4 +1,4 @@
----
+﻿---
 title: "初めてのマラソン登録：部門長のための実践ガイド"
 date: 2026-05-06
 slug: "marathon-registration-guide"
@@ -81,11 +81,11 @@ draft: false
 
 **ウォッチ（心拍計測機能付き）：**
 
-{{< affiliate id="amazon-gps-watch" text="GPS機能付きランニングウォッチ - Amazon で見る" >}}
+
 
 **ウェア（速乾素材）：**
 
-{{< affiliate id="amazon-shoes-001" text="ランニング用高機能ウェア - Amazon で見る" >}}
+
 
 ### 2.2 「いらない」ものリスト
 
@@ -136,7 +136,7 @@ draft: false
 
 **ビジネス書での学び：**
 
-{{< affiliate id="amazon-book-001" text="時間管理とメンタルに関するビジネス書 - Amazon で見る" >}}
+
 
 ---
 
@@ -244,3 +244,8 @@ A: 無理は禁物。医者の診察を受ける。3週間休んでも、本番�
 では、今週末にでも、RUNNETにアクセスして、「この大会に出よう」という大会を探してみてください。
 
 登録するかしないかは別として、「本気で登録しようかな」と思う大会が見つかった瞬間、あなたの判断力は既に磨かれ始めています。
+
+## 関連記事
+
+- [ランニングシューズ](/product-recommendations/) | [ランニング用品](/product-recommendations/)
+

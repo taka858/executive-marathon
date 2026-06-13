@@ -187,27 +187,27 @@ Memorial Day週末。朝日を浴びながら走る喜びに浸っていた。
 2. **積極的リカバリー**
    - フォームローラーでハムストリングをリリース（痛くない範囲で）
    - ストレッチ：ハムストリング、膝裏周辺
-   - {{< affiliate id="amazon-foam-roller" text="フォームローラーでハムストリング筋膜リリース" >}}
+   - 
 
 3. **HRV確認**
    - 今のリカバリー状態を数値化
-   - {{< affiliate id="amazon-hrv-monitor" text="HRVウォッチで回復度を測定" >}}
+   - 
    - HRVが低ければ、さらに2-3日の完全休息が必要
 
 ### **5月31日～6月1日**
 
 1. **Cold Plunge または Sauna**
    - 炎症を軽減し、血流を促進
-   - {{< affiliate id="amazon-cold-plunge-tub" text="ポータブルアイスバスでリカバリー加速" >}}
-   - {{< affiliate id="amazon-infrared-sauna" text="遠赤外線サウナでハムストリング回復" >}}
+   - 
+   - 
 
 2. **マグネシウムサプリメント**
    - 筋肉の回復促進
-   - {{< affiliate id="amazon-magnesium-supplement" text="マグネシウムで筋回復をサポート" >}}
+   - 
 
 3. **軽いストレッチワーク**
    - ヨガマット上での静的ストレッチのみ
-   - {{< affiliate id="amazon-yoga-mat" text="ヨガマットで回復時間を快適に" >}}
+   - 
 
 ### **6月2日以降**
 
@@ -259,7 +259,6 @@ Memorial Day週末。朝日を浴びながら走る喜びに浸っていた。
 
 ---
 
-## 関連記事
 
 本記事と合わせて、以下の記事も参考にしてください：
 
@@ -268,4 +267,8 @@ Memorial Day週末。朝日を浴びながら走る喜びに浸っていた。
 - [遠赤外線サウナでストレス軽減と脳パフォーマンス](/posts/sauna-recovery-wellness/) - 代替リカバリー法
 - [ロードトリップと長時間運転](/posts/road-trip-endurance/) - 脳疲労とリカバリー
 - [優秀な部下が辞める前に：オーバートレーニング症候群](/posts/overtraining-team-burnout/) - 組織のペース管理
-- [エグゼクティブマラソニスト向けおすすめ商品ランキング](/product-recommendations/)
+## 関連記事
+
+- [パフォーマンス測定ツール](/product-recommendations/) | [ランニングシューズ](/product-recommendations/)
+
+

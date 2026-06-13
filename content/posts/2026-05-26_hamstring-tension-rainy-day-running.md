@@ -166,25 +166,25 @@ draft: false
 
 ### 1. ハムストリング・ストレッチ（15分）
 
-{{< affiliate id="amazon-yoga-mat" text="ヨガマット - リカバリー時間を快適に" >}}
+
 
 ゆっくりとした前屈ストレッチ。決して無理しない。「気持ちいい」というポイントで15秒キープ。5セット。
 
 ### 2. フォームローラー（10分）
 
-{{< affiliate id="amazon-foam-roller" text="フォームローラー - 筋膜リリース" >}}
+
 
 ハムストリングから、ふくらはぎまで。筋膜をほぐして、血流を促進する。
 
 ### 3. タンパク質補給（朝食）
 
-{{< affiliate id="amazon-supplement-002" text="プロテインパウダー - 筋肉修復の栄養源" >}}
+
 
 走る代わりに、タンパク質30gを摂取。筋肉の修復に必要なアミノ酸を供給する。
 
 ### 4. HRV測定（5分）
 
-{{< affiliate id="amazon-hrv-monitor" text="HRVトラッキングウォッチ - 回復状態の可視化" >}}
+
 
 心拍変動（HRV）を測定。数値が「緑」なら回復中。「赤」なら、さらに休息が必要。
 
@@ -247,7 +247,6 @@ draft: false
 
 ---
 
-## 関連記事
 
 本記事と合わせて、以下の記事も参考にしてください：
 
@@ -256,4 +255,8 @@ draft: false
 - [Cold Plunge でリカバリー](/posts/cold-plunge-recovery-performance/) - リカバリーツール
 - [朝運動と脳化学](/posts/morning-exercise-brain-performance/) - 過度な運動の危険性
 - [禅のマインドフルネス](/posts/zen-mindfulness-vs-meditation/) - 体の声を聞く瞑想
-- [エグゼクティブマラソニスト向けおすすめ商品ランキング](/product-recommendations/)
+## 関連記事
+
+- [ランニング用品](/product-recommendations/) | [パフォーマンス測定ツール](/product-recommendations/)
+
+

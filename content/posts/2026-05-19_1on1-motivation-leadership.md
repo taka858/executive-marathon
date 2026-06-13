@@ -342,11 +342,11 @@ A：プロジェクト配置、学習機会提供、技術的チャレンジの�
 
 1on1 を深める、コーチングスキル本：
 
-{{< affiliate id="amazon-book-002" text="Getting Things Done（GTD）- 自己組織化 - Amazon で見る" >}}
+
 
 部下のモチベーション源を理解するため、人間関係構築本：
 
-{{< affiliate id="amazon-book-001" text="ポモドーロ・テクニック（集中力と時間管理）- Amazon で見る" >}}
+
 
 ---
 
@@ -382,6 +382,9 @@ A：プロジェクト配置、学習機会提供、技術的チャレンジの�
 - [なぜ、部門長はマラソンを走るのか](/posts/why-executives-should-run-triathlon/)
 - [エンジニアリングリーダーとして、マラソンで学んだこと](/posts/mental-training-leadership/)
 - [優秀な部下が辞める前に：オーバートレーニング症候群と組織のペース管理](/posts/overtraining-team-burnout/)
+
 ## 関連記事
 
-- [エグゼクティブマラソニスト向けおすすめ商品ランキング](/product-recommendations/)
+- [ビジネス書](/product-recommendations/)
+
+

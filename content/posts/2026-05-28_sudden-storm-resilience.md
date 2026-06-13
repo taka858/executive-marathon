@@ -194,7 +194,7 @@ draft: false
 
 実は、**気圧低下の影響を軽減する方法がある**：
 
-{{< affiliate id="amazon-oxygen-supplement" text="酸素サプリメント・高地トレーニング製品" >}}
+
 
 （注：正式にはこのIDを追加する必要があります）
 
@@ -262,7 +262,6 @@ draft: false
 
 ---
 
-## 関連記事
 
 本記事と合わせて、以下の記事も参考にしてください：
 
@@ -271,4 +270,8 @@ draft: false
 - [予定変更への対応力](/posts/adaptability-unexpected-changes/) - 不完全さとの向き合い方
 - [決定疲れを制御する](/posts/decision-fatigue-leadership/) - 判断力維持の工夫
 - [禅のマインドフルネス](/posts/zen-mindfulness-vs-meditation/) - 心をクリアに保つ
-- [エグゼクティブマラソニスト向けおすすめ商品ランキング](/product-recommendations/)
+## 関連記事
+
+- [ランニング用品](/product-recommendations/) | [ビジネス書](/product-recommendations/)
+
+

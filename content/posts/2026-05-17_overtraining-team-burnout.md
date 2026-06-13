@@ -312,9 +312,9 @@ A：軽度（疲労度 6-7）なら 2-3週間。中程度（疲労度 7-8）な�
 
 チームの疲弊防止と栄養・睡眠管理：
 
-{{< affiliate id="amazon-supplement-002" text="リカバリー栄養補給・プロテイン - Amazon で見る" >}}
 
-{{< affiliate id="amazon-supplement-001" text="睡眠改善・マグネシウムサプリ - Amazon で見る" >}}
+
+
 
 ---
 
@@ -348,6 +348,9 @@ A：軽度（疲労度 6-7）なら 2-3週間。中程度（疲労度 7-8）な�
 - [マラソンランナーに学ぶ、持続可能なキャリア構築法](/posts/work-life-balance-sustainability/)
 - [1on1面談が機能しない理由：部下のモチベーション源を見つけるマラソンランナー的アプローチ](/posts/1on1-motivation-leadership/)
 - [リモートワーク時代の判断力維持：分散チームで脳パフォーマンスを最大化する](/posts/remote-team-brain-performance/)
+
 ## 関連記事
 
-- [エグゼクティブマラソニスト向けおすすめ商品ランキング](/product-recommendations/)
+- [ビジネス書](/product-recommendations/) | [パフォーマンス測定ツール](/product-recommendations/)
+
+

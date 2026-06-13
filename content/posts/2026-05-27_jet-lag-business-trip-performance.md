@@ -164,7 +164,7 @@ draft: false
 
 ### 対策1：光療法（最も重要）
 
-{{< affiliate id="amazon-light-therapy-lamp" text="光療法ライト - メラトニンをリセットする" >}}
+
 
 到着後、現地の朝日を、30分間、目に入れることで、脳のマスタークロックをリセットする。
 
@@ -174,7 +174,7 @@ draft: false
 
 ### 対策2：メラトニンサプリ
 
-{{< affiliate id="amazon-melatonin-supplement" text="メラトニンサプリ - 眠気をコントロール" >}}
+
 
 到着後、現地時間の夜21:00に、メラトニン3mg～5mgを摂取。
 
@@ -191,7 +191,7 @@ draft: false
 - 現地時間の午前中の食事をスキップ（体内時計を現地時間に合わせるため）
 - 現地時間の昼12時に、初めての食事（タンパク質中心）
 
-{{< affiliate id="amazon-protein-travel-pack" text="ポータブルプロテイン - 移動中の栄養確保" >}}
+
 
 末梢時計（食事時間で制御される）も、マスタークロックと同期させることが重要。
 
@@ -207,9 +207,9 @@ draft: false
 
 ### 対策5：睡眠環境
 
-{{< affiliate id="amazon-sleep-mask" text="スリープマスク - 朝日を遮断、夜の睡眠を深くする" >}}
 
-{{< affiliate id="amazon-earplugs" text="イヤープラグ - ノイズを遮断して睡眠質向上" >}}
+
+
 
 ホテルの部屋を暗くして、メラトニン分泌を促進する。
 
@@ -283,7 +283,6 @@ draft: false
 
 ---
 
-## 関連記事
 
 本記事と合わせて、以下の記事も参考にしてください：
 
@@ -292,4 +291,8 @@ draft: false
 - [決定疲れを制御する](/posts/decision-fatigue-leadership/) - 判断力維持のマネジメント
 - [ハムストリングのはりと雨の日のランニング](/posts/hamstring-tension-rainy-day-running/) - 体の信号を聞く
 - [禅のマインドフルネス](/posts/zen-mindfulness-vs-meditation/) - 心をリセットする力
-- [エグゼクティブマラソニスト向けおすすめ商品ランキング](/product-recommendations/)
+## 関連記事
+
+- [栄養補給サプリメント](/product-recommendations/) | [ビジネス書](/product-recommendations/)
+
+

@@ -241,7 +241,6 @@ Memorial Day は、米国の祝日の中でも、最も厳粛な日の一つ。�
 
 ---
 
-## 関連記事
 
 本記事と合わせて、以下の記事も参考にしてください：
 
@@ -250,4 +249,8 @@ Memorial Day は、米国の祝日の中でも、最も厳粛な日の一つ。�
 - [決定疲れを制御する](/posts/decision-fatigue-leadership/) - 不完全な情報での判断
 - [メンタルトレーニングとリーダーシップ](/posts/mental-training-leadership/) - 困難への心構え
 - [禅のマインドフルネス](/posts/zen-mindfulness-vs-meditation/) - 予期しない事態への無心の対応
-- [エグゼクティブマラソニスト向けおすすめ商品ランキング](/product-recommendations/)
+## 関連記事
+
+- [ビジネス書](/product-recommendations/)
+
+

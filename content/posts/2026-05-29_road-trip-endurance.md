@@ -154,7 +154,7 @@ draft: false
 
 単なる「トイレ休憩」ではなく、**『脳をリセットする休憩』**が必要。
 
-{{< affiliate id="amazon-travel-pillow" text="トラベルピロー - 運転中の仮眠に" >}}
+
 
 2時間ごとに、15分間の仮眠。
 
@@ -164,7 +164,7 @@ draft: false
 
 長時間運転では、血糖値が低下しやすい。
 
-{{< affiliate id="amazon-energy-bar" text="エネルギーバー・ナッツバー" >}}
+
 
 1時間ごとに、タンパク質ベースのスナック。
 
@@ -216,7 +216,6 @@ draft: false
 
 ---
 
-## 関連記事
 
 本記事と合わせて、以下の記事も参考にしてください：
 
@@ -225,4 +224,8 @@ draft: false
 - [ハムストリングのはりと雨の日のランニング](/posts/hamstring-tension-rainy-day-running/) - 体の信号を聞く
 - [決定疲れを制御する](/posts/decision-fatigue-leadership/) - 判断力維持の工夫
 - [Zone 2トレーニングでサブ3.5達成](/posts/zone2-training-sub35/) - ペーシング戦略の応用
-- [エグゼクティブマラソニスト向けおすすめ商品ランキング](/product-recommendations/)
+## 関連記事
+
+- [栄養補給サプリメント](/product-recommendations/) | [ランニング用品](/product-recommendations/)
+
+
