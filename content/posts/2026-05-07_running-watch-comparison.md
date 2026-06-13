@@ -83,7 +83,7 @@ Garminは、ランニングに特化した最強のウォッチです。
 
 **価格帯：** ¥80,000-90,000
 
-{{< affiliate id="amazon-gps-watch" text="Garmin ForeRunner 965 - Amazon で見る" >}}
+**推奨：** [performance-tools カテゴリのランキングで Garmin Epix を確認](/product-recommendations/)
 
 ---
 
@@ -119,7 +119,7 @@ Apple Watchは、「ランニングは実は、全体的な生活の一部」と
 
 **価格帯：** ¥70,000-80,000
 
-{{< affiliate id="amazon-gps-watch" text="Apple Watch Ultra - Amazon で見る" >}}
+**推奨：** [performance-tools カテゴリで Apple Watch Ultra を確認](/product-recommendations/)
 
 ---
 
@@ -154,6 +154,8 @@ Polarは、正直なところ「Garminの次」というポジションですが
 - データ分析が好き
 
 **価格帯：** ¥50,000-60,000
+
+**推奨：** [performance-tools カテゴリで Garmin Epix を確認](/product-recommendations/)
 
 ---
 
