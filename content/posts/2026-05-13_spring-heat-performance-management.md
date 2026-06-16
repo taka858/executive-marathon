@@ -1,7 +1,7 @@
 ﻿---
 title: "春の気温上昇とパフォーマンス低下：季節変化に対応する脳と体の管理"
 date: 2026-05-13T00:00:00Z
-publishDate: 2026-05-13T00:00:00ZT00:00:00Z
+publishDate: 2026-05-13T00:00:00Z
 slug: "spring-heat-performance-management"
 description: "春先の気温上昇による判断力低下、疲労感増加の原因と対策。マラソンランナーの季節トレーニング調整から学ぶ、ビジネスリーダーの春対応。"
 author: "Executive Marathon"

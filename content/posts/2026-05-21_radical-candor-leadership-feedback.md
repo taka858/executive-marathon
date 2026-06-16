@@ -1,7 +1,7 @@
 ﻿---
 title: "Radical Candor - 優しさと厳しさで部下を成長させるリーダーシップ"
 date: 2026-05-21T00:00:00Z
-publishDate: 2026-05-21T00:00:00ZT00:00:00Z
+publishDate: 2026-05-21T00:00:00Z
 slug: "radical-candor-leadership-feedback"
 author: "Executive Marathon"
 description: "Radical Candor（ラディカル・キャンダー）は、Google・Facebook の元幹部が実践した、部下育成の秘訣。『Care Personally + Challenge Directly』で、優しさと厳しさの両立。日本のマネジメント文化へのインパクト。"

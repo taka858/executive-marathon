@@ -1,7 +1,7 @@
 ﻿---
 title: "出張と時差ボケ - 判断力が50%低下する『移動の罠』"
 date: 2026-05-27T00:00:00Z
-publishDate: 2026-05-27T00:00:00ZT00:00:00Z
+publishDate: 2026-05-27T00:00:00Z
 slug: "jet-lag-business-trip-performance"
 author: "Executive Marathon"
 description: "出張で時差7時間の移動。朝日のない機内で12時間。到着後、重要な経営判断を迫られた。時差ボケは単なる『眠気』ではなく、脳の判断中枢が一時的に『停止』する現象。科学的対策と実装ガイド。"

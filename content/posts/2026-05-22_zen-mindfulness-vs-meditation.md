@@ -1,7 +1,7 @@
 ﻿---
 title: "禅のマインドフルネス - 米国の『瞑想』と日本の『禅』、1200年の違い"
 date: 2026-05-22T00:00:00Z
-publishDate: 2026-05-22T00:00:00ZT00:00:00Z
+publishDate: 2026-05-22T00:00:00Z
 slug: "zen-mindfulness-vs-meditation"
 author: "Executive Marathon"
 description: "米国で流行る瞑想（Mindfulness）は、日本の禅1200年の歴史の一部に過ぎない。マラソンのフロー状態、判断力クリア化、組織へのもたらす効果を、禅の本質から解説。"

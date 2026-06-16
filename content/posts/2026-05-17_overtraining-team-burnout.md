@@ -1,7 +1,7 @@
 ﻿---
 title: "優秀な部下が辞める兆候：オーバートレーニング症候群でバーンアウト防止"
 date: 2026-05-17T00:00:00Z
-publishDate: 2026-05-17T00:00:00ZT00:00:00Z
+publishDate: 2026-05-17T00:00:00Z
 slug: "overtraining-team-burnout"
 description: "優秀なエンジニアが突然辞める原因はオーバートレーニング症候群。マラソンランナーが教えるチーム疲弊の早期発見法。ペース管理で人材流出を防ぎ、組織パフォーマンスを30%向上させる実装ガイド。"
 author: "Executive Marathon"

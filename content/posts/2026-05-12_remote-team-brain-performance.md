@@ -1,7 +1,7 @@
 ﻿---
 title: "リモートワーク時代の判断力維持：分散チームで脳パフォーマンスを最大化する"
 date: 2026-05-12T00:00:00Z
-publishDate: 2026-05-12T00:00:00ZT00:00:00Z
+publishDate: 2026-05-12T00:00:00Z
 slug: "remote-team-brain-performance"
 description: "リモートワークでの判断力低下、Zoom疲労、決定疲れの原因と対策。マラソン戦略とチーム脳科学から学ぶ、分散チームのパフォーマンス最大化。"
 author: "Executive Marathon"

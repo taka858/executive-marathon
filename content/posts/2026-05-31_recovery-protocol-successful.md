@@ -1,7 +1,7 @@
 ﻿---
 title: "膝裏痛からの復帰：ストレッチ×栄養学×朝日で5kmの成功リラン"
 date: 2026-05-31T00:00:00Z
-publishDate: 2026-05-31T00:00:00ZT00:00:00Z
+publishDate: 2026-05-31T00:00:00Z
 slug: "recovery-protocol-successful"
 author: "Executive Marathon"
 description: "5日間の膝裏痛から復帰。ハムストリング徹底ストレッチ + 栄養学的マッサージ + 朝日セロトニン = 5kmの痛みなしランニング。科学的リカバリープロトコルの実装と結果。"

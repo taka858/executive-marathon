@@ -1,7 +1,7 @@
 ﻿---
 title: "Memorial Day ラン - 朝日と歴史への敬礼"
 date: 2026-05-25T00:00:00Z
-publishDate: 2026-05-25T00:00:00ZT00:00:00Z
+publishDate: 2026-05-25T00:00:00Z
 slug: "memorial-day-dawn-running"
 author: "Executive Marathon"
 description: "米国の Memorial Day（戦死者追悼の日）を朝ランで迎える。5時からスタート、朝日を見ながら走る。歴史への敬意と朝ランの爽快感。必要な装備をアフィリエイトで紹介。"
