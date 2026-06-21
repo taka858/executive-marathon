@@ -122,6 +122,8 @@ WHOOP は、このばらつきを **毎晩 1,000 回以上計測** して、「�
 
 **推奨用途：本格的なマラソン練習者、HRV マネジメント実装者**
 
+**Amazonで購入 →** [WHOOP Strap 5.0](https://amzn.asia/d/WHOOP)
+
 ---
 
 ## ② Oura Ring Gen 4：バランス最強
@@ -170,6 +172,8 @@ WHOOP の精度は保ちながら、「日常生活への溶け込み」も実�
 
 **推奨用途：経営層の『隠れたリカバリー管理ツール』**
 
+**Amazonで購入 →** [Oura Ring Gen 4](https://amzn.asia/d/OURANEW)
+
 ---
 
 ## ③ Apple Watch Ultra：統合最強
@@ -197,12 +201,14 @@ Apple Watch は、「リカバリーツール」というより **「ライフ�
 
 ### 経営層向け評価
 
-**こんいなランナー向け：**
+**こんなランナー向け：**
 - iPhone ユーザーで、生活全体を統合したい人
 - リカバリーと日常生活の両立を望む人
 - ビジネスシーンでの見た目を重視する人
 
 **推奨用途：『CEO の左腕』としての統合デバイス**
+
+**Amazonで購入 →** [Apple Watch Ultra](https://amzn.asia/d/WATCHULTRA)
 
 ---
 
