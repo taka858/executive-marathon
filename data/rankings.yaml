@@ -14,7 +14,7 @@ running-shoes:
       price: "¥18,700"
       lifespan: "400-600km"
       rating: 4.8
-      url: "https://www.amazon.co.jp/s?k=ASICS+GEL-KAYANO+30"
+      url: "https://www.amazon.co.jp/s?k=ASICS+GEL-KAYANO+30&tag=executivemara-22"
 
     - name: "Nike Pegasus 40"
       description: "定番中の定番。バランスの取れた性能で初心者からプロまで愛用。重すぎず軽すぎず、あらゆるトレーニングに対応。"
@@ -25,7 +25,7 @@ running-shoes:
       price: "¥13,200"
       lifespan: "400-600km"
       rating: 4.7
-      url: "https://www.amazon.co.jp/s?k=Nike+Pegasus+40"
+      url: "https://www.amazon.co.jp/s?k=Nike+Pegasus+40&tag=executivemara-22"
 
     - name: "New Balance 880"
       description: "安定性と耐久性に優れている。毎日のトレーニング用に最適。足がぶれやすい人向けの信頼できる一足。"
@@ -36,7 +36,7 @@ running-shoes:
       price: "¥16,500"
       lifespan: "450-650km"
       rating: 4.6
-      url: "https://www.amazon.co.jp/s?k=New+Balance+880"
+      url: "https://www.amazon.co.jp/s?k=New+Balance+880&tag=executivemara-22"
 
     - name: "HOKA ONE ONE Clifton"
       description: "軽量かつクッション性抜群。高速ペース走に向いている。スピード練習とレース用の最適選択。"
@@ -47,7 +47,7 @@ running-shoes:
       price: "¥19,800"
       lifespan: "350-450km"
       rating: 4.7
-      url: "https://www.amazon.co.jp/s?k=HOKA+ONE+ONE+Clifton"
+      url: "https://www.amazon.co.jp/s?k=HOKA+ONE+ONE+Clifton&tag=executivemara-22"
 
     - name: "Brooks Ghost 15"
       description: "ラン文化が浸透した米国では最高評価。快適さを重視する設計。柔らかさと反応性のバランスが秀逸。"
@@ -58,7 +58,7 @@ running-shoes:
       price: "¥17,600"
       lifespan: "400-600km"
       rating: 4.6
-      url: "https://www.amazon.co.jp/s?k=Brooks+Ghost+15"
+      url: "https://www.amazon.co.jp/s?k=Brooks+Ghost+15&tag=executivemara-22"
 
 business-books:
   title: "ビジネスパーソン必読書 ランキングTOP5"
@@ -73,7 +73,7 @@ business-books:
       price: "¥2,750"
       pages: 272
       rating: 4.9
-      url: "https://www.amazon.co.jp/s?k=Getting+Things+Done"
+      url: "https://www.amazon.co.jp/s?k=Getting+Things+Done&tag=executivemara-22"
 
     - name: "習慣のちから"
       description: "チャールズ・デュヒッグ著。習慣形成の科学的メカニズムを解説。朝ランの習慣化にも応用できる原理。"
@@ -84,7 +84,7 @@ business-books:
       price: "¥2,090"
       pages: 452
       rating: 4.8
-      url: "https://www.amazon.co.jp/s?k=習慣のちから"
+      url: "https://www.amazon.co.jp/s?k=習慣のちから&tag=executivemara-22"
 
     - name: "戦略的思考とは何か"
       description: "ディープな経営戦略思考を身につけるための必読書。部門長レベルの意思決定の質を大幅に向上。"
@@ -95,7 +95,7 @@ business-books:
       price: "¥3,300"
       pages: 336
       rating: 4.7
-      url: "https://www.amazon.co.jp/s?k=戦略的思考"
+      url: "https://www.amazon.co.jp/s?k=戦略的思考&tag=executivemara-22"
 
     - name: "7つの習慣"
       description: "スティーブン・コヴィー著。自己啓発の古典的名著。個人の原則と組織運営の原則が学べる。"
@@ -106,7 +106,7 @@ business-books:
       price: "¥2,750"
       pages: 447
       rating: 4.8
-      url: "https://www.amazon.co.jp/s?k=7つの習慣"
+      url: "https://www.amazon.co.jp/s?k=7つの習慣&tag=executivemara-22"
 
     - name: "イノベーションのジレンマ"
       description: "クレイトン・クリステンセン著。破壊的イノベーション理論。業界を揺るがす戦略的思考。"
@@ -117,7 +117,7 @@ business-books:
       price: "¥3,080"
       pages: 396
       rating: 4.6
-      url: "https://www.amazon.co.jp/s?k=イノベーションのジレンマ"
+      url: "https://www.amazon.co.jp/s?k=イノベーションのジレンマ&tag=executivemara-22"
 
 triathlon-gear:
   title: "トライアスロン初心者向けギア ランキングTOP5"
@@ -132,7 +132,7 @@ triathlon-gear:
       price: "¥15,000～25,000"
       lifespan: "2-3シーズン"
       rating: 4.5
-      url: "https://www.amazon.co.jp/s?k=ウェットスーツ+トライアスロン"
+      url: "https://www.amazon.co.jp/s?k=ウェットスーツ+トライアスロン&tag=executivemara-22"
 
     - name: "トライアスロン用バイク"
       description: "ロードバイク推奨。カーボンフレームで軽量・高速。トライアスロンで最も大きな時間を費やすバイクセクションの性能は、ゴールタイムに直結。"
@@ -143,7 +143,7 @@ triathlon-gear:
       price: "¥150,000～300,000"
       weight: "7-8kg"
       rating: 4.7
-      url: "https://www.amazon.co.jp/s?k=トライアスロン+バイク"
+      url: "https://www.amazon.co.jp/s?k=トライアスロン+バイク&tag=executivemara-22"
 
     - name: "トランジションバッグ"
       description: "ウェットスーツから自転車への移行を素早くサポート。トランジション時間の短縮が全体タイムに与える影響は意外に大きい。"
@@ -154,7 +154,7 @@ triathlon-gear:
       price: "¥5,000～10,000"
       capacity: "30-40L"
       rating: 4.4
-      url: "https://www.amazon.co.jp/s?k=トランジションバッグ"
+      url: "https://www.amazon.co.jp/s?k=トランジションバッグ&tag=executivemara-22"
 
     - name: "スイムゴーグル（高機能）"
       description: "視野が広く、水の侵入を防止。快適なスイムをサポート。スイムパートでの方向確認と安全性を確保。"
@@ -165,7 +165,7 @@ triathlon-gear:
       price: "¥3,000～8,000"
       features: "広視野、防曇加工"
       rating: 4.6
-      url: "https://www.amazon.co.jp/s?k=スイムゴーグル+トライアスロン"
+      url: "https://www.amazon.co.jp/s?k=スイムゴーグル+トライアスロン&tag=executivemara-22"
 
     - name: "エアロヘルメット"
       description: "空気抵抗を低減。高速走行時の安全性も確保。バイク区間でのアドバンテージは数分単位。安全と速度の両立を実現。"
@@ -176,7 +176,7 @@ triathlon-gear:
       price: "¥25,000～50,000"
       weight: "180-220g"
       rating: 4.7
-      url: "https://www.amazon.co.jp/s?k=エアロヘルメット+ロードバイク"
+      url: "https://www.amazon.co.jp/s?k=エアロヘルメット+ロードバイク&tag=executivemara-22"
 
 running-gear:
   title: "雨対策ランニング用品 ランキングTOP5"
@@ -191,7 +191,7 @@ running-gear:
       price: "¥6,800"
       lifespan: "2-3シーズン"
       rating: 4.8
-      url: "https://www.amazon.co.jp/s?k=ASICS+防水ランニングジャケット"
+      url: "https://www.amazon.co.jp/s?k=ASICS+防水ランニングジャケット&tag=executivemara-22"
 
     - name: "Nike DRY-FIT 防水パンツ"
       description: "吸湿速乾機能付き防水パンツ。雨による足元のベタつきを完全に防止。動きやすさも損なわない設計。"
@@ -202,7 +202,7 @@ running-gear:
       price: "¥5,500"
       lifespan: "2-3シーズン"
       rating: 4.7
-      url: "https://www.amazon.co.jp/s?k=Nike+DRY-FIT+防水パンツ"
+      url: "https://www.amazon.co.jp/s?k=Nike+DRY-FIT+防水パンツ&tag=executivemara-22"
 
     - name: "Saucony 防水ランニングシューズ"
       description: "防水メンブレン搭載のランニングシューズ。水の侵入を完全に防ぎながら、クッション性を損なわない設計。雨の日のマラソンに最適。"
@@ -213,7 +213,7 @@ running-gear:
       price: "¥13,200"
       lifespan: "400-500km"
       rating: 4.6
-      url: "https://www.amazon.co.jp/s?k=Saucony+防水ランニングシューズ"
+      url: "https://www.amazon.co.jp/s?k=Saucony+防水ランニングシューズ&tag=executivemara-22"
 
     - name: "防水ランニング腕時計（Garmin Instinct 2S）"
       description: "完全防水（10ATM）で GPS 搭載。雨の中でも HR V、睡眠、走行距離を計測。データドリブンなランニング管理が可能。"
@@ -224,7 +224,7 @@ running-gear:
       price: "¥35,000"
       lifespan: "3-5年"
       rating: 4.8
-      url: "https://www.amazon.co.jp/s?k=Garmin+Instinct+2S"
+      url: "https://www.amazon.co.jp/s?k=Garmin+Instinct+2S&tag=executivemara-22"
 
     - name: "防水リュック（The North Face Vault）"
       description: "デイパック用途で防水機能完備。朝ランの着替えや荷物を安全に運べる。オフィス到着まで快適。"
@@ -235,7 +235,7 @@ running-gear:
       price: "¥8,800"
       lifespan: "3-5年"
       rating: 4.7
-      url: "https://www.amazon.co.jp/s?k=The+North+Face+Vault"
+      url: "https://www.amazon.co.jp/s?k=The+North+Face+Vault&tag=executivemara-22"
 
 nutrition-supplements:
   title: "エグゼクティブランナーの栄養補給食 ランキングTOP5"
@@ -250,7 +250,7 @@ nutrition-supplements:
       price: "¥380/個"
       quantity: "40g × 3個セット"
       rating: 4.8
-      url: "https://www.amazon.co.jp/s?k=MAURTEN+GEL+100"
+      url: "https://www.amazon.co.jp/s?k=MAURTEN+GEL+100&tag=executivemara-22"
 
     - name: "大塚製薬 ポカリスエット（パウダー）"
       description: "電解質バランスが最適化された定番スポーツドリンク。脳へのグルコース供給と電解質補給を同時に実現。レース中の脱水と判断力低下を防止。"
@@ -261,7 +261,7 @@ nutrition-supplements:
       price: "¥2,200/24個"
       quantity: "1.5L × 1個"
       rating: 4.7
-      url: "https://www.amazon.co.jp/s?k=ポカリスエット+パウダー"
+      url: "https://www.amazon.co.jp/s?k=ポカリスエット+パウダー&tag=executivemara-22"
 
     - name: "NOW Foods マグネシウムサプリメント"
       description: "完走後のリカバリー期間に最適。筋肉修復を促進し、睡眠の質を向上させて翌日の判断力回復を加速。マグネシウム不足は判断力低下につながる。"
@@ -272,7 +272,7 @@ nutrition-supplements:
       price: "¥1,680"
       quantity: "180 粒"
       rating: 4.6
-      url: "https://www.amazon.co.jp/s?k=NOW+マグネシウム+サプリメント"
+      url: "https://www.amazon.co.jp/s?k=NOW+マグネシウム+サプリメント&tag=executivemara-22"
 
     - name: "XS GELS（エックスエス ジェルズ）"
       description: "カフェイン入りエネルギーゼリー。40km 地点での判断力低下を化学的にサポート。カフェイン 50mg 配合で、メンタル的な「やり切り感」を強化。"
@@ -283,7 +283,7 @@ nutrition-supplements:
       price: "¥450/個"
       quantity: "40g × 5 個セット"
       rating: 4.7
-      url: "https://www.amazon.co.jp/s?k=XS+GELS+カフェイン"
+      url: "https://www.amazon.co.jp/s?k=XS+GELS+カフェイン&tag=executivemara-22"
 
     - name: "Clif Bar（クリフバー）"
       description: "全粒穀物ベースのエネルギーバー。腸への負担が少なく、素早くエネルギー補給できる。味の種類が豊富で、レース中の飽きを防止。"
@@ -294,7 +294,7 @@ nutrition-supplements:
       price: "¥1,650"
       quantity: "5 本セット"
       rating: 4.5
-      url: "https://www.amazon.co.jp/s?k=Clif+Bar"
+      url: "https://www.amazon.co.jp/s?k=Clif+Bar&tag=executivemara-22"
 
 performance-tools:
   title: "エグゼクティブランナーのパフォーマンス計測ツール ランキングTOP5"
@@ -309,7 +309,7 @@ performance-tools:
       price: "¥25,000"
       lifespan: "2-3年"
       rating: 4.8
-      url: "https://www.amazon.co.jp/s?k=WHOOP+Strap"
+      url: "https://www.amazon.co.jp/s?k=WHOOP+Strap&tag=executivemara-22"
 
     - name: "Oura Ring（オーラリング）"
       description: "リング型で 24/7 睡眠・体温・心拍数を計測。スマートウォッチより目立たず、ビジネスシーンで違和感なし。判断力維持のための睡眠管理に最適。"
@@ -320,7 +320,7 @@ performance-tools:
       price: "¥49,800"
       lifespan: "3-5年"
       rating: 4.7
-      url: "https://www.amazon.co.jp/s?k=Oura+Ring"
+      url: "https://www.amazon.co.jp/s?k=Oura+Ring&tag=executivemara-22"
 
     - name: "Apple Watch Ultra"
       description: "GPS・心拍数・高度計を備えた総合計測デバイス。ランニングデータと日常のビジネス用途を 1 デバイスで管理。判断力モニタリング + 時間管理を統合。"
@@ -331,7 +331,7 @@ performance-tools:
       price: "¥89,800"
       lifespan: "2-3年"
       rating: 4.8
-      url: "https://www.amazon.co.jp/s?k=Apple+Watch+Ultra"
+      url: "https://www.amazon.co.jp/s?k=Apple+Watch+Ultra&tag=executivemara-22"
 
     - name: "Garmin Epix（Gen 2）"
       description: "AMOLED ディスプレイ搭載で視認性が優秀。VO2 Max、トレーニングステータス、リカバリータイムを計測。ランニング専用としての完成度が高い。"
@@ -342,7 +342,7 @@ performance-tools:
       price: "¥79,800"
       lifespan: "3-5年"
       rating: 4.7
-      url: "https://www.amazon.co.jp/s?k=Garmin+Epix+Gen+2"
+      url: "https://www.amazon.co.jp/s?k=Garmin+Epix+Gen+2&tag=executivemara-22"
 
     - name: "習慣追跡シート＆テンプレート（PDF 版）"
       description: "朝ラン、睡眠、栄養補給などの習慣化を可視化。チェックシートで達成感を強化し、社会的コミットメントを高める。デジタルツールより心理的効果が高い。"
@@ -353,7 +353,7 @@ performance-tools:
       price: "¥980"
       format: "PDF ダウンロード"
       rating: 4.4
-      url: "https://www.amazon.co.jp/s?k=習慣追跡シート+テンプレート"
+      url: "https://www.amazon.co.jp/s?k=習慣追跡シート+テンプレート&tag=executivemara-22"
 
 # テンプレート（必要に応じてコピーして使用）
 # category-name:
