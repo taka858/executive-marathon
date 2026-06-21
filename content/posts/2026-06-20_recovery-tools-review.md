@@ -122,7 +122,7 @@ WHOOP は、このばらつきを **毎晩 1,000 回以上計測** して、「�
 
 **推奨用途：本格的なマラソン練習者、HRV マネジメント実装者**
 
-**Amazonで購入 →** [WHOOP Strap 5.0](https://amzn.asia/d/WHOOP)
+**詳細を見る →** [パフォーマンスツール（WHOOP Strap）](/product-recommendations/)
 
 ---
 
@@ -172,7 +172,7 @@ WHOOP の精度は保ちながら、「日常生活への溶け込み」も実�
 
 **推奨用途：経営層の『隠れたリカバリー管理ツール』**
 
-**Amazonで購入 →** [Oura Ring Gen 4](https://amzn.asia/d/OURANEW)
+**詳細を見る →** [パフォーマンスツール（Oura Ring）](/product-recommendations/)
 
 ---
 
@@ -208,7 +208,7 @@ Apple Watch は、「リカバリーツール」というより **「ライフ�
 
 **推奨用途：『CEO の左腕』としての統合デバイス**
 
-**Amazonで購入 →** [Apple Watch Ultra](https://amzn.asia/d/WATCHULTRA)
+**詳細を見る →** [パフォーマンスツール（Apple Watch Ultra）](/product-recommendations/)
 
 ---
 

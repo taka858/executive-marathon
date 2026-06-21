@@ -105,7 +105,7 @@ draft: false
 
 **初心者向け推奨：XCEL / Huub / TYR フルスーツ**
 
-**Amazonで購入 →** [トライアスロン用ウェットスーツ](https://amzn.asia/d/WETSUIT)
+**詳細を見る →** [トライアスロン装備（ウェットスーツ）](/product-recommendations/)
 
 理由：
 - **浮力**：初心者は「浮く」ことで心理的安心感を得られる
@@ -169,7 +169,7 @@ Step 3：練習
 - **コンポーネント品質**：Shimano 105 以上で、信頼性が高い
 - **リセールバリュー**：数年後、売却時に 70-80% の価値を保つ
 
-**Amazonで購入 →** [トライアスロン用エアロバイク](https://amzn.asia/d/AERO)
+**詳細を見る →** [トライアスロン用自転車](/product-recommendations/)
 
 ### バイク関連装備
 
@@ -181,11 +181,7 @@ Step 3：練習
 | ビンディングペダル | 効率 | ¥15,000-25,000 | ⭐⭐⭐⭐ |
 | 補給食・ボトル | 栄養補給 | ¥5,000-10,000 | ⭐⭐⭐⭐ |
 
-**関連装備をAmazonで購入 →**
-- [バイク用ヘルメット](https://amzn.asia/d/HELMET)
-- [バイクシューズ](https://amzn.asia/d/BIKESHOES)
-- [サイクリングウェア](https://amzn.asia/d/CYCLEWARE)
-- [ビンディングペダル](https://amzn.asia/d/PEDAL)
+**関連装備の詳細 →** [トライアスロン装備ランキング](/product-recommendations/)
 
 ---
 

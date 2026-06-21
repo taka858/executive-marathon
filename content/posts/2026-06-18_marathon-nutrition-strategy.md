@@ -129,7 +129,7 @@ MAURTEN GEL 100（1 袋）：
 
 **推奨用途：本番マラソンの 20km 地点以降**
 
-**Amazonで購入 →** [MAURTEN GEL 100](https://amzn.asia/d/MAURTEN)
+**詳細を見る →** [栄養補給食（MAURTEN GEL 100）](/product-recommendations/)
 
 ---
 
@@ -178,7 +178,7 @@ MAURTEN GEL 100（1 袋）：
 
 **推奨用途：給水所での基本補給、5-10km ごとの水分補給**
 
-**Amazonで購入 →** [ポカリスエット スポーツドリンク](https://amzn.asia/d/POCARI)
+**詳細を見る →** [スポーツドリンク（ポカリスエット）](/product-recommendations/)
 
 ---
 
@@ -231,7 +231,7 @@ Clif Bar のたんぱく質は、その「筋肉分解を遅延させる」働�
 
 **推奨用途：マラソン 25km 地点以降、30-35km ごとの補給**
 
-**Amazonで購入 →** [Clif Bar エネルギーバー](https://amzn.asia/d/CLIFBAR)
+**詳細を見る →** [エネルギーバー（Clif Bar）](/product-recommendations/)
 
 ---
 

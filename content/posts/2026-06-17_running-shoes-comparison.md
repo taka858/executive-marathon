@@ -88,7 +88,7 @@ ASICS の GEL-KAYANO は、「ランナーのための靴」として設計さ�
 - ケガのリスクを最小化したい人
 - 500km 以上走ることを想定している人
 
-**Amazonで購入 →** [ASICS GEL-KAYANO 30](https://amzn.asia/d/GELBX3W)
+**詳細を見る →** [ランニングシューズ（ASICS GEL-KAYANO 30）](/product-recommendations/)
 
 ---
 
@@ -121,7 +121,7 @@ Nike Pegasus は、「朝ラン初心者から上級者まで」のあらゆる�
 - 複数のシューズを使い分けたい人
 - 朝ランと普段履きで「兼用」したい人
 
-**Amazonで購入 →** [Nike Pegasus 40](https://amzn.asia/d/PEGASUS40)
+**詳細を見る →** [ランニングシューズ（Nike Pegasus 40）](/product-recommendations/)
 
 ---
 
@@ -154,7 +154,7 @@ New Balance 880 は、「アメリカの老舗ランニングシューズメー�
 - 足幅が広めの人
 - アメリカンブランドへのロイヤリティがある人
 
-**Amazonで購入 →** [New Balance 880](https://amzn.asia/d/880X)
+**詳細を見る →** [ランニングシューズ（New Balance 880）](/product-recommendations/)
 
 ---
 
