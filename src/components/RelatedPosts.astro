@@ -1,0 +1,42 @@
+---
+interface Post {
+  title: string;
+  slug: string;
+  category: string;
+  date: Date;
+}
+
+interface Props {
+  currentSlug: string;
+  posts: Post[];
+  maxItems?: number;
+}
+
+const { currentSlug, posts, maxItems = 3 } = Astro.props;
+
+const related = posts
+  .filter((post) => post.slug !== currentSlug)
+  .slice(0, maxItems);
+---
+
+{related.length > 0 && (
+  <div class="mt-12 pt-8 border-t border-slate-200 dark:border-slate-700">
+    <h2 class="text-2xl font-bold mb-6">関連記事</h2>
+    <div class="grid gap-4">
+      {related.map((post) => (
+        <a
+          href={`/posts/${post.slug}/`}
+          class="block p-4 border border-slate-200 dark:border-slate-700 rounded-lg hover:bg-slate-50 dark:hover:bg-slate-800 transition"
+        >
+          <span class="text-sm text-blue-600 dark:text-blue-400 font-medium">
+            {post.category}
+          </span>
+          <h3 class="font-bold mt-1 line-clamp-2">{post.title}</h3>
+          <time class="text-sm text-slate-500 dark:text-slate-400">
+            {post.date.toLocaleDateString('ja-JP')}
+          </time>
+        </a>
+      ))}
+    </div>
+  </div>
+)}

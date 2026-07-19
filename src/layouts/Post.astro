@@ -1,0 +1,77 @@
+---
+import Base from './Base.astro';
+
+interface Props {
+  title: string;
+  description: string;
+  date: Date;
+  updated?: Date;
+  category: 'career' | 'mindset' | 'running' | 'triathlon';
+  tags: string[];
+  author: string;
+  affiliate: boolean;
+}
+
+const { title, description, date, updated, category, tags, author, affiliate } = Astro.props;
+
+const categoryLabels = {
+  career: '北米キャリア',
+  mindset: 'マインドセット',
+  running: 'ランニング',
+  triathlon: 'トライアスロン',
+};
+
+const formattedDate = date.toLocaleDateString('ja-JP', { year: 'numeric', month: '2-digit', day: '2-digit' });
+const formattedUpdated = updated?.toLocaleDateString('ja-JP', { year: 'numeric', month: '2-digit', day: '2-digit' });
+---
+
+<Base title={title} description={description}>
+  <article class="max-w-3xl mx-auto px-4 py-12">
+    <header class="mb-8">
+      <div class="flex items-center gap-2 mb-4">
+        <span class="inline-block px-3 py-1 bg-blue-100 dark:bg-blue-900 text-blue-800 dark:text-blue-100 rounded-full text-sm font-medium">
+          {categoryLabels[category]}
+        </span>
+      </div>
+
+      <h1 class="text-4xl font-bold mb-4">{title}</h1>
+
+      <p class="text-lg text-slate-600 dark:text-slate-400 mb-4">{description}</p>
+
+      <div class="flex items-center justify-between text-sm text-slate-500 dark:text-slate-400 border-t border-b border-slate-200 dark:border-slate-700 py-4">
+        <div>
+          <span>投稿: {formattedDate}</span>
+          {formattedUpdated && <span> | 更新: {formattedUpdated}</span>}
+        </div>
+        <span>著者: {author}</span>
+      </div>
+    </header>
+
+    {affiliate && (
+      <div class="bg-yellow-50 dark:bg-yellow-900/20 border-l-4 border-yellow-400 p-4 mb-8">
+        <p class="text-sm text-yellow-800 dark:text-yellow-100">
+          <strong>【広告】</strong> この記事にはアフィリエイトリンクが含まれています。
+        </p>
+      </div>
+    )}
+
+    <div class="prose dark:prose-invert max-w-none mb-12">
+      <slot />
+    </div>
+
+    <footer class="border-t border-slate-200 dark:border-slate-700 pt-8">
+      {tags.length > 0 && (
+        <div class="mb-6">
+          <p class="text-sm font-medium text-slate-600 dark:text-slate-400 mb-2">タグ:</p>
+          <div class="flex flex-wrap gap-2">
+            {tags.map((tag) => (
+              <a href={`/tags/${tag}/`} class="inline-block px-3 py-1 bg-slate-100 dark:bg-slate-800 text-slate-700 dark:text-slate-300 rounded text-sm hover:bg-slate-200 dark:hover:bg-slate-700">
+                {tag}
+              </a>
+            ))}
+          </div>
+        </div>
+      )}
+    </footer>
+  </article>
+</Base>
